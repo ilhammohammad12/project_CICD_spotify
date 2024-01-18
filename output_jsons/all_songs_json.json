@@ -1,0 +1,1054 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0L5f9aJIaxQXTipZ7uQYiC",
+            "id": "0L5f9aJIaxQXTipZ7uQYiC",
+            "name": "Bheems Ceciroleo",
+            "type": "artist",
+            "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/070z9uG6XuIOI49AgwCnCy"
+        },
+        "href": "https://api.spotify.com/v1/albums/070z9uG6XuIOI49AgwCnCy",
+        "id": "070z9uG6XuIOI49AgwCnCy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737b63faddb002915fbaeea776",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027b63faddb002915fbaeea776",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517b63faddb002915fbaeea776",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "MAD",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "total_tracks": 4,
+        "type": "album",
+        "uri": "spotify:album:070z9uG6XuIOI49AgwCnCy"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L5f9aJIaxQXTipZ7uQYiC",
+          "id": "0L5f9aJIaxQXTipZ7uQYiC",
+          "name": "Bheems Ceciroleo",
+          "type": "artist",
+          "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7M1gYudbPTr899NHeTOEHY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7M1gYudbPTr899NHeTOEHY",
+          "id": "7M1gYudbPTr899NHeTOEHY",
+          "name": "Varam",
+          "type": "artist",
+          "uri": "spotify:artist:7M1gYudbPTr899NHeTOEHY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MVZmcDNyoI81ZmAu0YiF7",
+          "id": "3MVZmcDNyoI81ZmAu0YiF7",
+          "name": "Keerthana Sharma",
+          "type": "artist",
+          "uri": "spotify:artist:3MVZmcDNyoI81ZmAu0YiF7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+          "id": "4wxBWsFkyA2K1BMBFj91qt",
+          "name": "Kasarla Shyam",
+          "type": "artist",
+          "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 245000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INA092318869"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ZguAeEoNjipSbQFzfDsYI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4ZguAeEoNjipSbQFzfDsYI",
+      "id": "4ZguAeEoNjipSbQFzfDsYI",
+      "is_local": false,
+      "is_playable": true,
+      "name": "College Papa",
+      "popularity": 73,
+      "preview_url": "https://p.scdn.co/mp3-preview/db0a6a293ba94cf920739cc58d5ad2cad80b07f7?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4ZguAeEoNjipSbQFzfDsYI"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+            },
+            "href": "https://api.spotify.com/v1/artists/4A2XSc4OJjuPY4l6NjnrDj",
+            "id": "4A2XSc4OJjuPY4l6NjnrDj",
+            "name": "Ram Miriyala",
+            "type": "artist",
+            "uri": "spotify:artist:4A2XSc4OJjuPY4l6NjnrDj"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5oNL1ay25NKeMieYCFwhci"
+        },
+        "href": "https://api.spotify.com/v1/albums/5oNL1ay25NKeMieYCFwhci",
+        "id": "5oNL1ay25NKeMieYCFwhci",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27351788f09c6ae024c95b0973e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0251788f09c6ae024c95b0973e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485151788f09c6ae024c95b0973e",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Tillu Square",
+        "release_date": "2023-07-26",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:5oNL1ay25NKeMieYCFwhci"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4A2XSc4OJjuPY4l6NjnrDj",
+          "id": "4A2XSc4OJjuPY4l6NjnrDj",
+          "name": "Ram Miriyala",
+          "type": "artist",
+          "uri": "spotify:artist:4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+          "id": "4wxBWsFkyA2K1BMBFj91qt",
+          "name": "Kasarla Shyam",
+          "type": "artist",
+          "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189966,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INA092318790"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3NdQpAhK5s42vu3do3KSBT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3NdQpAhK5s42vu3do3KSBT",
+      "id": "3NdQpAhK5s42vu3do3KSBT",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Ticket Eh Konakunda",
+      "popularity": 69,
+      "preview_url": "https://p.scdn.co/mp3-preview/38e2325ba3d711b1fa53b88935b2440a40538b63?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3NdQpAhK5s42vu3do3KSBT"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+            },
+            "href": "https://api.spotify.com/v1/artists/4A2XSc4OJjuPY4l6NjnrDj",
+            "id": "4A2XSc4OJjuPY4l6NjnrDj",
+            "name": "Ram Miriyala",
+            "type": "artist",
+            "uri": "spotify:artist:4A2XSc4OJjuPY4l6NjnrDj"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7ujJhfGKy2qKe2OBQqw173"
+        },
+        "href": "https://api.spotify.com/v1/albums/7ujJhfGKy2qKe2OBQqw173",
+        "id": "7ujJhfGKy2qKe2OBQqw173",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ef85991a22b950a9e4e3398",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029ef85991a22b950a9e4e3398",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519ef85991a22b950a9e4e3398",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Tillu Square",
+        "release_date": "2023-11-27",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:7ujJhfGKy2qKe2OBQqw173"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4A2XSc4OJjuPY4l6NjnrDj",
+          "id": "4A2XSc4OJjuPY4l6NjnrDj",
+          "name": "Ram Miriyala",
+          "type": "artist",
+          "uri": "spotify:artist:4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+          "id": "4wxBWsFkyA2K1BMBFj91qt",
+          "name": "Kasarla Shyam",
+          "type": "artist",
+          "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 188648,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INA092318974"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0S9j9OAG3KjmBg4j9XzFcC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0S9j9OAG3KjmBg4j9XzFcC",
+      "id": "0S9j9OAG3KjmBg4j9XzFcC",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Radhika",
+      "popularity": 64,
+      "preview_url": "https://p.scdn.co/mp3-preview/0032ee7a264b0a4f637294c9567c5a9c08db54f4?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0S9j9OAG3KjmBg4j9XzFcC"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FVBduYaeVBb6JIghza7v6",
+            "id": "5FVBduYaeVBb6JIghza7v6",
+            "name": "Santhosh Narayanan",
+            "type": "artist",
+            "uri": "spotify:artist:5FVBduYaeVBb6JIghza7v6"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta"
+        },
+        "href": "https://api.spotify.com/v1/albums/2AMgY8htFx9X91zgB09Pta",
+        "id": "2AMgY8htFx9X91zgB09Pta",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737b14e98738cfd32fab66c7ab",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027b14e98738cfd32fab66c7ab",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517b14e98738cfd32fab66c7ab",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Dasara (Telugu)",
+        "release_date": "2023-04-19",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:2AMgY8htFx9X91zgB09Pta"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5FVBduYaeVBb6JIghza7v6",
+          "id": "5FVBduYaeVBb6JIghza7v6",
+          "name": "Santhosh Narayanan",
+          "type": "artist",
+          "uri": "spotify:artist:5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+          },
+          "href": "https://api.spotify.com/v1/artists/1H4ZvA2yyK7wCmbvEUWvPn",
+          "id": "1H4ZvA2yyK7wCmbvEUWvPn",
+          "name": "Rahul Sipligunj",
+          "type": "artist",
+          "uri": "spotify:artist:1H4ZvA2yyK7wCmbvEUWvPn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+          "id": "4wxBWsFkyA2K1BMBFj91qt",
+          "name": "Kasarla Shyam",
+          "type": "artist",
+          "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2JAUmDvK69lNfCUxU1Cy8k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2JAUmDvK69lNfCUxU1Cy8k",
+          "id": "2JAUmDvK69lNfCUxU1Cy8k",
+          "name": "Gotte Kanakavva",
+          "type": "artist",
+          "uri": "spotify:artist:2JAUmDvK69lNfCUxU1Cy8k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7GM6m5FZ7lw38Mjb0c11jY"
+          },
+          "href": "https://api.spotify.com/v1/artists/7GM6m5FZ7lw38Mjb0c11jY",
+          "id": "7GM6m5FZ7lw38Mjb0c11jY",
+          "name": "Gannora Dasa Laxmi",
+          "type": "artist",
+          "uri": "spotify:artist:7GM6m5FZ7lw38Mjb0c11jY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/70j6kmHWHZu8SaNJHZdGWn"
+          },
+          "href": "https://api.spotify.com/v1/artists/70j6kmHWHZu8SaNJHZdGWn",
+          "id": "70j6kmHWHZu8SaNJHZdGWn",
+          "name": "Palamuru Jangireddy",
+          "type": "artist",
+          "uri": "spotify:artist:70j6kmHWHZu8SaNJHZdGWn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0KcfLDf35Z1Hz3h4Fn58mc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0KcfLDf35Z1Hz3h4Fn58mc",
+          "id": "0KcfLDf35Z1Hz3h4Fn58mc",
+          "name": "Narsanna (Nalgonda Gaddar)",
+          "type": "artist",
+          "uri": "spotify:artist:0KcfLDf35Z1Hz3h4Fn58mc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242019,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INH102215426"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5PrwbM2h5uRdgz1sQm4TyQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5PrwbM2h5uRdgz1sQm4TyQ",
+      "id": "5PrwbM2h5uRdgz1sQm4TyQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Dhoom Dhaam",
+      "popularity": 59,
+      "preview_url": "https://p.scdn.co/mp3-preview/bb5cdcc35b1c9a99f116b8cf0fc972f924352a65?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5PrwbM2h5uRdgz1sQm4TyQ"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
+            },
+            "href": "https://api.spotify.com/v1/artists/27dNKsHZrQKGnAlFCLDlzd",
+            "id": "27dNKsHZrQKGnAlFCLDlzd",
+            "name": "Mahati Swara Sagar",
+            "type": "artist",
+            "uri": "spotify:artist:27dNKsHZrQKGnAlFCLDlzd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5CFMovEmviLDjNoAt6heaI"
+        },
+        "href": "https://api.spotify.com/v1/albums/5CFMovEmviLDjNoAt6heaI",
+        "id": "5CFMovEmviLDjNoAt6heaI",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cc18088b82b0a6819529ac23",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cc18088b82b0a6819529ac23",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cc18088b82b0a6819529ac23",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Bholaa Shankar",
+        "release_date": "2023-08-10",
+        "release_date_precision": "day",
+        "total_tracks": 5,
+        "type": "album",
+        "uri": "spotify:album:5CFMovEmviLDjNoAt6heaI"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
+          },
+          "href": "https://api.spotify.com/v1/artists/27dNKsHZrQKGnAlFCLDlzd",
+          "id": "27dNKsHZrQKGnAlFCLDlzd",
+          "name": "Mahati Swara Sagar",
+          "type": "artist",
+          "uri": "spotify:artist:27dNKsHZrQKGnAlFCLDlzd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+          },
+          "href": "https://api.spotify.com/v1/artists/6LWyVEIBnx7MoRBhQxu9om",
+          "id": "6LWyVEIBnx7MoRBhQxu9om",
+          "name": "Anurag Kulkarni",
+          "type": "artist",
+          "uri": "spotify:artist:6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+          },
+          "href": "https://api.spotify.com/v1/artists/1pDF5UltcypyatITA3Pduo",
+          "id": "1pDF5UltcypyatITA3Pduo",
+          "name": "Mangli",
+          "type": "artist",
+          "uri": "spotify:artist:1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+          "id": "4wxBWsFkyA2K1BMBFj91qt",
+          "name": "Kasarla Shyam",
+          "type": "artist",
+          "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200288,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INA092318781"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4TY3G5RCwE6VxAS69zNAfi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4TY3G5RCwE6VxAS69zNAfi",
+      "id": "4TY3G5RCwE6VxAS69zNAfi",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Jam Jam Jajjanaka",
+      "popularity": 47,
+      "preview_url": "https://p.scdn.co/mp3-preview/a6ebf42803febb3bb558ec6f86b5cf4d96fa0cb4?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4TY3G5RCwE6VxAS69zNAfi"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+            },
+            "href": "https://api.spotify.com/v1/artists/29aw5YCdIw2FEXYyAJZI8l",
+            "id": "29aw5YCdIw2FEXYyAJZI8l",
+            "name": "Harris Jayaraj",
+            "type": "artist",
+            "uri": "spotify:artist:29aw5YCdIw2FEXYyAJZI8l"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5FS9Tpj3fxel3FfQrFM9iE"
+        },
+        "href": "https://api.spotify.com/v1/albums/5FS9Tpj3fxel3FfQrFM9iE",
+        "id": "5FS9Tpj3fxel3FfQrFM9iE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273726c6b33b8f044bf40051fc2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02726c6b33b8f044bf40051fc2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851726c6b33b8f044bf40051fc2",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Extra - Ordinary Man",
+        "release_date": "2023-12-04",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:5FS9Tpj3fxel3FfQrFM9iE"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+          },
+          "href": "https://api.spotify.com/v1/artists/29aw5YCdIw2FEXYyAJZI8l",
+          "id": "29aw5YCdIw2FEXYyAJZI8l",
+          "name": "Harris Jayaraj",
+          "type": "artist",
+          "uri": "spotify:artist:29aw5YCdIw2FEXYyAJZI8l"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+          },
+          "href": "https://api.spotify.com/v1/artists/4A2XSc4OJjuPY4l6NjnrDj",
+          "id": "4A2XSc4OJjuPY4l6NjnrDj",
+          "name": "Ram Miriyala",
+          "type": "artist",
+          "uri": "spotify:artist:4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva"
+          },
+          "href": "https://api.spotify.com/v1/artists/1FI8Am7UxI2XLUtFs2jPva",
+          "id": "1FI8Am7UxI2XLUtFs2jPva",
+          "name": "Priya Hemesh",
+          "type": "artist",
+          "uri": "spotify:artist:1FI8Am7UxI2XLUtFs2jPva"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+          "id": "4wxBWsFkyA2K1BMBFj91qt",
+          "name": "Kasarla Shyam",
+          "type": "artist",
+          "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201272,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INA092318988"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/694EfB21RxMhG9GQl1wXIn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/694EfB21RxMhG9GQl1wXIn",
+      "id": "694EfB21RxMhG9GQl1wXIn",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Ole Ole Paapaayi",
+      "popularity": 54,
+      "preview_url": "https://p.scdn.co/mp3-preview/5989aff9a372ce86d01a963bf55df353cb160652?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:694EfB21RxMhG9GQl1wXIn"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5VVN3xZw1i2qihfITZlvCZ",
+            "id": "5VVN3xZw1i2qihfITZlvCZ",
+            "name": "G. V. Prakash",
+            "type": "artist",
+            "uri": "spotify:artist:5VVN3xZw1i2qihfITZlvCZ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/45fJSEaGPOeQXA3RI8spmw"
+        },
+        "href": "https://api.spotify.com/v1/albums/45fJSEaGPOeQXA3RI8spmw",
+        "id": "45fJSEaGPOeQXA3RI8spmw",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b89769062512fd0e9ee62dd9",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b89769062512fd0e9ee62dd9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b89769062512fd0e9ee62dd9",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Aadikeshava",
+        "release_date": "2023-10-25",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:45fJSEaGPOeQXA3RI8spmw"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5VVN3xZw1i2qihfITZlvCZ",
+          "id": "5VVN3xZw1i2qihfITZlvCZ",
+          "name": "G. V. Prakash",
+          "type": "artist",
+          "uri": "spotify:artist:5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4kq8z3vydHjPDggxb16ErB",
+          "id": "4kq8z3vydHjPDggxb16ErB",
+          "name": "Nakash Aziz",
+          "type": "artist",
+          "uri": "spotify:artist:4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
+          },
+          "href": "https://api.spotify.com/v1/artists/1cNcHeOmjm7yKUYWhrmjMM",
+          "id": "1cNcHeOmjm7yKUYWhrmjMM",
+          "name": "Indravathi Chauhan",
+          "type": "artist",
+          "uri": "spotify:artist:1cNcHeOmjm7yKUYWhrmjMM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+          "id": "4wxBWsFkyA2K1BMBFj91qt",
+          "name": "Kasarla Shyam",
+          "type": "artist",
+          "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 191508,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INA092318895"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1xdSBb8KKDMtJeh45zzkDi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1xdSBb8KKDMtJeh45zzkDi",
+      "id": "1xdSBb8KKDMtJeh45zzkDi",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Leelammo",
+      "popularity": 53,
+      "preview_url": "https://p.scdn.co/mp3-preview/d35f381d021d857d2e1c3a44e3c9651a064d6e4c?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1xdSBb8KKDMtJeh45zzkDi"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FVBduYaeVBb6JIghza7v6",
+            "id": "5FVBduYaeVBb6JIghza7v6",
+            "name": "Santhosh Narayanan",
+            "type": "artist",
+            "uri": "spotify:artist:5FVBduYaeVBb6JIghza7v6"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+            },
+            "href": "https://api.spotify.com/v1/artists/77YvCBWe0tTLygpgSJsdOH",
+            "id": "77YvCBWe0tTLygpgSJsdOH",
+            "name": "Dhee",
+            "type": "artist",
+            "uri": "spotify:artist:77YvCBWe0tTLygpgSJsdOH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+            },
+            "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+            "id": "4wxBWsFkyA2K1BMBFj91qt",
+            "name": "Kasarla Shyam",
+            "type": "artist",
+            "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1IWiR73eopQpkUYillqkv9"
+        },
+        "href": "https://api.spotify.com/v1/albums/1IWiR73eopQpkUYillqkv9",
+        "id": "1IWiR73eopQpkUYillqkv9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733f65e0090ff1513d85767174",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023f65e0090ff1513d85767174",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513f65e0090ff1513d85767174",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Kora Meesam (From \"Jigarthanda DoubleX\")",
+        "release_date": "2023-10-10",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1IWiR73eopQpkUYillqkv9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+          },
+          "href": "https://api.spotify.com/v1/artists/5FVBduYaeVBb6JIghza7v6",
+          "id": "5FVBduYaeVBb6JIghza7v6",
+          "name": "Santhosh Narayanan",
+          "type": "artist",
+          "uri": "spotify:artist:5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+          },
+          "href": "https://api.spotify.com/v1/artists/77YvCBWe0tTLygpgSJsdOH",
+          "id": "77YvCBWe0tTLygpgSJsdOH",
+          "name": "Dhee",
+          "type": "artist",
+          "uri": "spotify:artist:77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+          "id": "4wxBWsFkyA2K1BMBFj91qt",
+          "name": "Kasarla Shyam",
+          "type": "artist",
+          "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 167500,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INT202303864"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1dBhVeXk1GVWo6p9lMsJBa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1dBhVeXk1GVWo6p9lMsJBa",
+      "id": "1dBhVeXk1GVWo6p9lMsJBa",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Kora Meesam - From \"Jigarthanda DoubleX\"",
+      "popularity": 42,
+      "preview_url": "https://p.scdn.co/mp3-preview/642950d0a251190fc1f25818bd5aee42ad5a16fd?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1dBhVeXk1GVWo6p9lMsJBa"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Fa8B0rJSmeeGjYCJJXrb3",
+            "id": "7Fa8B0rJSmeeGjYCJJXrb3",
+            "name": "Vivek Sagar",
+            "type": "artist",
+            "uri": "spotify:artist:7Fa8B0rJSmeeGjYCJJXrb3"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1mnT1hPDyfEwUAzazqKjdr"
+        },
+        "href": "https://api.spotify.com/v1/albums/1mnT1hPDyfEwUAzazqKjdr",
+        "id": "1mnT1hPDyfEwUAzazqKjdr",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27368f9fbabeba86215dc8a4331",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0268f9fbabeba86215dc8a4331",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485168f9fbabeba86215dc8a4331",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Bharathanatyam",
+        "release_date": "2023-12-13",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1mnT1hPDyfEwUAzazqKjdr"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Fa8B0rJSmeeGjYCJJXrb3",
+          "id": "7Fa8B0rJSmeeGjYCJJXrb3",
+          "name": "Vivek Sagar",
+          "type": "artist",
+          "uri": "spotify:artist:7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+          },
+          "href": "https://api.spotify.com/v1/artists/1pDF5UltcypyatITA3Pduo",
+          "id": "1pDF5UltcypyatITA3Pduo",
+          "name": "Mangli",
+          "type": "artist",
+          "uri": "spotify:artist:1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+          "id": "4wxBWsFkyA2K1BMBFj91qt",
+          "name": "Kasarla Shyam",
+          "type": "artist",
+          "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 224000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INA092319001"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/44mQ5dNg1WGD4zZpQbPzLy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/44mQ5dNg1WGD4zZpQbPzLy",
+      "id": "44mQ5dNg1WGD4zZpQbPzLy",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Dugu Dugu",
+      "popularity": 40,
+      "preview_url": "https://p.scdn.co/mp3-preview/64b50cf4d398b91809e71eb83a45c56930e2ea30?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:44mQ5dNg1WGD4zZpQbPzLy"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
+            },
+            "href": "https://api.spotify.com/v1/artists/27dNKsHZrQKGnAlFCLDlzd",
+            "id": "27dNKsHZrQKGnAlFCLDlzd",
+            "name": "Mahati Swara Sagar",
+            "type": "artist",
+            "uri": "spotify:artist:27dNKsHZrQKGnAlFCLDlzd"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/31VGsQlEwn4ctuyJmnYbgW"
+        },
+        "href": "https://api.spotify.com/v1/albums/31VGsQlEwn4ctuyJmnYbgW",
+        "id": "31VGsQlEwn4ctuyJmnYbgW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a28836947543c99995c2357a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a28836947543c99995c2357a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a28836947543c99995c2357a",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Bholaa Shankar",
+        "release_date": "2023-08-07",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:31VGsQlEwn4ctuyJmnYbgW"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
+          },
+          "href": "https://api.spotify.com/v1/artists/27dNKsHZrQKGnAlFCLDlzd",
+          "id": "27dNKsHZrQKGnAlFCLDlzd",
+          "name": "Mahati Swara Sagar",
+          "type": "artist",
+          "uri": "spotify:artist:27dNKsHZrQKGnAlFCLDlzd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+          },
+          "href": "https://api.spotify.com/v1/artists/1H4ZvA2yyK7wCmbvEUWvPn",
+          "id": "1H4ZvA2yyK7wCmbvEUWvPn",
+          "name": "Rahul Sipligunj",
+          "type": "artist",
+          "uri": "spotify:artist:1H4ZvA2yyK7wCmbvEUWvPn"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+          "id": "4wxBWsFkyA2K1BMBFj91qt",
+          "name": "Kasarla Shyam",
+          "type": "artist",
+          "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201500,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INA092318807"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4UiiyIhVGiPCaVhKc4nfL7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4UiiyIhVGiPCaVhKc4nfL7",
+      "id": "4UiiyIhVGiPCaVhKc4nfL7",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Kottara Kottu Teenumaaru",
+      "popularity": 34,
+      "preview_url": "https://p.scdn.co/mp3-preview/002c749efda8fd0674a8c8be5cf52b41f15132a1?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4UiiyIhVGiPCaVhKc4nfL7"
+    }
+  ]
+}

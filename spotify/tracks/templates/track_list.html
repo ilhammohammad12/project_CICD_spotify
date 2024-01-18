@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Spotify Track List</title>
+    <style>
+        body {
+            background-color: #000000;  /* Black background */
+            color: #ffffff;  /* White text for better visibility */
+        }
+
+        .column {
+            float: center;
+            width: 30%;
+            padding: 20px;
+        }
+
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Spotify Track List</h1>
+
+<div class="row">
+    {% for artist in artists %}
+        <div class="column">
+            <strong>Song Name:</strong> {{ artist.name }}<br>
+            <strong>Artists:</strong> {{ artist.artists|join:", " }}<br>
+        </div>
+        {% if forloop.counter|divisibleby:20 %}
+            </div><div class="row">
+        {% endif %}
+    {% endfor %}
+</div>
+
+</body>
+</html>

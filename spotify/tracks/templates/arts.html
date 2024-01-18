@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artistic Top Tracks</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .artists-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .artist-card {
+            width: calc(20% - 20px); /* 20% width with 20px gap between cards */
+            box-sizing: border-box;
+            margin-bottom: 20px;
+            background-color: #333;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .artist-image {
+            width: 100%;
+            height: auto;
+            border-bottom: 1px solid #555;
+        }
+
+        .artist-details {
+            padding: 10px;
+        }
+
+        h2, p, ul {
+            margin: 0;
+            padding: 0;
+        }
+
+        h2 {
+            font-size: 1.5em;
+            margin-bottom: 5px;
+        }
+
+        p {
+            font-size: 1.1em;
+            margin-bottom: 10px;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        li {
+            font-size: 1em;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Artistic Top Tracks</h1>
+
+<div class="artists-container">
+    {% for artist in artists %}
+        <div class="artist-card">
+            <img src="{{ artist.image.url }}" alt="{{ artist.name }} Album Cover" class="artist-image">
+            <div class="artist-details">
+                <h2>{{ artist.name }}</h2>
+                <p><strong>Artists:</strong></p>
+                <ul>
+                    {% for artist_name in artist.artistname %}
+                        <li>{{ artist_name.name }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+</body>
+</html>

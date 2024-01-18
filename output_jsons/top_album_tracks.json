@@ -1,0 +1,218 @@
+[
+  {
+    "href": "https://api.spotify.com/v1/albums/070z9uG6XuIOI49AgwCnCy/tracks?offset=0&limit=20&market=IN",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0L5f9aJIaxQXTipZ7uQYiC",
+            "id": "0L5f9aJIaxQXTipZ7uQYiC",
+            "name": "Bheems Ceciroleo",
+            "type": "artist",
+            "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+            },
+            "href": "https://api.spotify.com/v1/artists/4kq8z3vydHjPDggxb16ErB",
+            "id": "4kq8z3vydHjPDggxb16ErB",
+            "name": "Nakash Aziz",
+            "type": "artist",
+            "uri": "spotify:artist:4kq8z3vydHjPDggxb16ErB"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj"
+            },
+            "href": "https://api.spotify.com/v1/artists/4b5xBk2NYeK5kGKJKGhnJj",
+            "id": "4b5xBk2NYeK5kGKJKGhnJj",
+            "name": "Raghu Ram",
+            "type": "artist",
+            "uri": "spotify:artist:4b5xBk2NYeK5kGKJKGhnJj"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 196166,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/64oM9dBfB4TKqMtwSdoduu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/64oM9dBfB4TKqMtwSdoduu",
+        "id": "64oM9dBfB4TKqMtwSdoduu",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Proud'se Single",
+        "preview_url": "https://p.scdn.co/mp3-preview/3a7fe77de6f804b1750dd6363e5cb968b7e6d6c1?cid=f4f8554077e84dc8a5fd740ea419bff8",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:64oM9dBfB4TKqMtwSdoduu"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0L5f9aJIaxQXTipZ7uQYiC",
+            "id": "0L5f9aJIaxQXTipZ7uQYiC",
+            "name": "Bheems Ceciroleo",
+            "type": "artist",
+            "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+            },
+            "href": "https://api.spotify.com/v1/artists/0nMjhemqRwrboQGcs92fh2",
+            "id": "0nMjhemqRwrboQGcs92fh2",
+            "name": "Kapil Kapilan",
+            "type": "artist",
+            "uri": "spotify:artist:0nMjhemqRwrboQGcs92fh2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BSnq8EugWeuGR6acegjqN"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BSnq8EugWeuGR6acegjqN",
+            "id": "5BSnq8EugWeuGR6acegjqN",
+            "name": "Bhasakarabhatla",
+            "type": "artist",
+            "uri": "spotify:artist:5BSnq8EugWeuGR6acegjqN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 204533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/00LSCsH99cW8zsr82ibMHM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/00LSCsH99cW8zsr82ibMHM",
+        "id": "00LSCsH99cW8zsr82ibMHM",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Nuvvu Navvukuntu",
+        "preview_url": "https://p.scdn.co/mp3-preview/5e4e6facd188d8bf56a10ce23fedfda72e8a94d9?cid=f4f8554077e84dc8a5fd740ea419bff8",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:00LSCsH99cW8zsr82ibMHM"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0L5f9aJIaxQXTipZ7uQYiC",
+            "id": "0L5f9aJIaxQXTipZ7uQYiC",
+            "name": "Bheems Ceciroleo",
+            "type": "artist",
+            "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+            },
+            "href": "https://api.spotify.com/v1/artists/32rgf5uvf7GtEPjrHyJ6uU",
+            "id": "32rgf5uvf7GtEPjrHyJ6uU",
+            "name": "Sai Charan",
+            "type": "artist",
+            "uri": "spotify:artist:32rgf5uvf7GtEPjrHyJ6uU"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yNWK49Tp1ojh12K5sjJ5J"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yNWK49Tp1ojh12K5sjJ5J",
+            "id": "1yNWK49Tp1ojh12K5sjJ5J",
+            "name": "Bhole shavali",
+            "type": "artist",
+            "uri": "spotify:artist:1yNWK49Tp1ojh12K5sjJ5J"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 174340,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7IzJ46OgPtyiQWT65T0rxJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7IzJ46OgPtyiQWT65T0rxJ",
+        "id": "7IzJ46OgPtyiQWT65T0rxJ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Malli Malli Raani Roju",
+        "preview_url": "https://p.scdn.co/mp3-preview/07efcf54a191732f0e19c73f74a1fceb6a02db18?cid=f4f8554077e84dc8a5fd740ea419bff8",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7IzJ46OgPtyiQWT65T0rxJ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0L5f9aJIaxQXTipZ7uQYiC",
+            "id": "0L5f9aJIaxQXTipZ7uQYiC",
+            "name": "Bheems Ceciroleo",
+            "type": "artist",
+            "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7M1gYudbPTr899NHeTOEHY"
+            },
+            "href": "https://api.spotify.com/v1/artists/7M1gYudbPTr899NHeTOEHY",
+            "id": "7M1gYudbPTr899NHeTOEHY",
+            "name": "Varam",
+            "type": "artist",
+            "uri": "spotify:artist:7M1gYudbPTr899NHeTOEHY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7"
+            },
+            "href": "https://api.spotify.com/v1/artists/3MVZmcDNyoI81ZmAu0YiF7",
+            "id": "3MVZmcDNyoI81ZmAu0YiF7",
+            "name": "Keerthana Sharma",
+            "type": "artist",
+            "uri": "spotify:artist:3MVZmcDNyoI81ZmAu0YiF7"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+            },
+            "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+            "id": "4wxBWsFkyA2K1BMBFj91qt",
+            "name": "Kasarla Shyam",
+            "type": "artist",
+            "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 245000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZguAeEoNjipSbQFzfDsYI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ZguAeEoNjipSbQFzfDsYI",
+        "id": "4ZguAeEoNjipSbQFzfDsYI",
+        "is_local": false,
+        "is_playable": true,
+        "name": "College Papa",
+        "preview_url": "https://p.scdn.co/mp3-preview/db0a6a293ba94cf920739cc58d5ad2cad80b07f7?cid=f4f8554077e84dc8a5fd740ea419bff8",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4ZguAeEoNjipSbQFzfDsYI"
+      }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  }
+]

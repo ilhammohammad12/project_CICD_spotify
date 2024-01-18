@@ -1,0 +1,99 @@
+[
+  {
+    "id": "64oM9dBfB4TKqMtwSdoduu",
+    "name": "Proud'se Single",
+    "duration_ms": 196166,
+    "artists": [
+      {
+        "id": "0L5f9aJIaxQXTipZ7uQYiC",
+        "name": "Bheems Ceciroleo",
+        "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+      },
+      {
+        "id": "4kq8z3vydHjPDggxb16ErB",
+        "name": "Nakash Aziz",
+        "uri": "spotify:artist:4kq8z3vydHjPDggxb16ErB"
+      },
+      {
+        "id": "4b5xBk2NYeK5kGKJKGhnJj",
+        "name": "Raghu Ram",
+        "uri": "spotify:artist:4b5xBk2NYeK5kGKJKGhnJj"
+      }
+    ],
+    "uri": "spotify:track:64oM9dBfB4TKqMtwSdoduu"
+  },
+  {
+    "id": "00LSCsH99cW8zsr82ibMHM",
+    "name": "Nuvvu Navvukuntu",
+    "duration_ms": 204533,
+    "artists": [
+      {
+        "id": "0L5f9aJIaxQXTipZ7uQYiC",
+        "name": "Bheems Ceciroleo",
+        "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+      },
+      {
+        "id": "0nMjhemqRwrboQGcs92fh2",
+        "name": "Kapil Kapilan",
+        "uri": "spotify:artist:0nMjhemqRwrboQGcs92fh2"
+      },
+      {
+        "id": "5BSnq8EugWeuGR6acegjqN",
+        "name": "Bhasakarabhatla",
+        "uri": "spotify:artist:5BSnq8EugWeuGR6acegjqN"
+      }
+    ],
+    "uri": "spotify:track:00LSCsH99cW8zsr82ibMHM"
+  },
+  {
+    "id": "7IzJ46OgPtyiQWT65T0rxJ",
+    "name": "Malli Malli Raani Roju",
+    "duration_ms": 174340,
+    "artists": [
+      {
+        "id": "0L5f9aJIaxQXTipZ7uQYiC",
+        "name": "Bheems Ceciroleo",
+        "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+      },
+      {
+        "id": "32rgf5uvf7GtEPjrHyJ6uU",
+        "name": "Sai Charan",
+        "uri": "spotify:artist:32rgf5uvf7GtEPjrHyJ6uU"
+      },
+      {
+        "id": "1yNWK49Tp1ojh12K5sjJ5J",
+        "name": "Bhole shavali",
+        "uri": "spotify:artist:1yNWK49Tp1ojh12K5sjJ5J"
+      }
+    ],
+    "uri": "spotify:track:7IzJ46OgPtyiQWT65T0rxJ"
+  },
+  {
+    "id": "4ZguAeEoNjipSbQFzfDsYI",
+    "name": "College Papa",
+    "duration_ms": 245000,
+    "artists": [
+      {
+        "id": "0L5f9aJIaxQXTipZ7uQYiC",
+        "name": "Bheems Ceciroleo",
+        "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+      },
+      {
+        "id": "7M1gYudbPTr899NHeTOEHY",
+        "name": "Varam",
+        "uri": "spotify:artist:7M1gYudbPTr899NHeTOEHY"
+      },
+      {
+        "id": "3MVZmcDNyoI81ZmAu0YiF7",
+        "name": "Keerthana Sharma",
+        "uri": "spotify:artist:3MVZmcDNyoI81ZmAu0YiF7"
+      },
+      {
+        "id": "4wxBWsFkyA2K1BMBFj91qt",
+        "name": "Kasarla Shyam",
+        "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+      }
+    ],
+    "uri": "spotify:track:4ZguAeEoNjipSbQFzfDsYI"
+  }
+]

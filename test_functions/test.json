@@ -1,0 +1,1082 @@
+{
+    "albums": {
+        "href": "https://api.spotify.com/v1/search?query=top+albums+2023+india&type=album&market=IN&offset=10&limit=20",
+        "items": [
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1najORT7ZKHSbaGiAfW8ct"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1najORT7ZKHSbaGiAfW8ct",
+                        "id": "1najORT7ZKHSbaGiAfW8ct",
+                        "name": "2023 Hit Songs Music Mix",
+                        "type": "artist",
+                        "uri": "spotify:artist:1najORT7ZKHSbaGiAfW8ct"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3Rt4qtMRPzdBLU2cU1Q5aO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3Rt4qtMRPzdBLU2cU1Q5aO",
+                        "id": "3Rt4qtMRPzdBLU2cU1Q5aO",
+                        "name": "2023 Hit Songs Playlist",
+                        "type": "artist",
+                        "uri": "spotify:artist:3Rt4qtMRPzdBLU2cU1Q5aO"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4OxfghTTEa7wIa1GcXtWVD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4OxfghTTEa7wIa1GcXtWVD",
+                        "id": "4OxfghTTEa7wIa1GcXtWVD",
+                        "name": "Top Songs Of 2023",
+                        "type": "artist",
+                        "uri": "spotify:artist:4OxfghTTEa7wIa1GcXtWVD"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3fZ1aGbIF6Mtj6n3HYBqZJ"
+                },
+                "href": "https://api.spotify.com/v1/albums/3fZ1aGbIF6Mtj6n3HYBqZJ",
+                "id": "3fZ1aGbIF6Mtj6n3HYBqZJ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27307e39c0d27f9c7e304309607",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0207e39c0d27f9c7e304309607",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485107e39c0d27f9c7e304309607",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "New Hit Songs Of 2023 Playlist Instrumentals",
+                "release_date": "2023-03-18",
+                "release_date_precision": "day",
+                "total_tracks": 16,
+                "type": "album",
+                "uri": "spotify:album:3fZ1aGbIF6Mtj6n3HYBqZJ"
+            },
+            {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0FB4HsrHZCx39ajuAyok8o"
+                },
+                "href": "https://api.spotify.com/v1/albums/0FB4HsrHZCx39ajuAyok8o",
+                "id": "0FB4HsrHZCx39ajuAyok8o",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cc13d810f1d7d3bc9b370a8e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cc13d810f1d7d3bc9b370a8e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851cc13d810f1d7d3bc9b370a8e",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "New Global Pop Hits 2023 | Hot Hits International",
+                "release_date": "2023-05-30",
+                "release_date_precision": "day",
+                "total_tracks": 23,
+                "type": "album",
+                "uri": "spotify:album:0FB4HsrHZCx39ajuAyok8o"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4OxfghTTEa7wIa1GcXtWVD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4OxfghTTEa7wIa1GcXtWVD",
+                        "id": "4OxfghTTEa7wIa1GcXtWVD",
+                        "name": "Top Songs Of 2023",
+                        "type": "artist",
+                        "uri": "spotify:artist:4OxfghTTEa7wIa1GcXtWVD"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1najORT7ZKHSbaGiAfW8ct"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1najORT7ZKHSbaGiAfW8ct",
+                        "id": "1najORT7ZKHSbaGiAfW8ct",
+                        "name": "2023 Hit Songs Music Mix",
+                        "type": "artist",
+                        "uri": "spotify:artist:1najORT7ZKHSbaGiAfW8ct"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3Rt4qtMRPzdBLU2cU1Q5aO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3Rt4qtMRPzdBLU2cU1Q5aO",
+                        "id": "3Rt4qtMRPzdBLU2cU1Q5aO",
+                        "name": "2023 Hit Songs Playlist",
+                        "type": "artist",
+                        "uri": "spotify:artist:3Rt4qtMRPzdBLU2cU1Q5aO"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4nxYa4l1OZ0ZbQI6IqVy2q"
+                },
+                "href": "https://api.spotify.com/v1/albums/4nxYa4l1OZ0ZbQI6IqVy2q",
+                "id": "4nxYa4l1OZ0ZbQI6IqVy2q",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c21429b35d1dfe05730d11ce",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c21429b35d1dfe05730d11ce",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c21429b35d1dfe05730d11ce",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Top Billboard Songs Of 2023",
+                "release_date": "2023-11-20",
+                "release_date_precision": "day",
+                "total_tracks": 19,
+                "type": "album",
+                "uri": "spotify:album:4nxYa4l1OZ0ZbQI6IqVy2q"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0fdpSsYQvHfaNCNW9nWd2d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0fdpSsYQvHfaNCNW9nWd2d",
+                        "id": "0fdpSsYQvHfaNCNW9nWd2d",
+                        "name": "New Hindi Gana",
+                        "type": "artist",
+                        "uri": "spotify:artist:0fdpSsYQvHfaNCNW9nWd2d"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/006E9y7AizqWR01oRWagrY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/006E9y7AizqWR01oRWagrY",
+                        "id": "006E9y7AizqWR01oRWagrY",
+                        "name": "Indian Dinga Dinga",
+                        "type": "artist",
+                        "uri": "spotify:artist:006E9y7AizqWR01oRWagrY"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/74kd8l3AEfk5YHYYbnl2fV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/74kd8l3AEfk5YHYYbnl2fV",
+                        "id": "74kd8l3AEfk5YHYYbnl2fV",
+                        "name": "Hindi Band",
+                        "type": "artist",
+                        "uri": "spotify:artist:74kd8l3AEfk5YHYYbnl2fV"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/77WGJcdFOAtDRGimkO77se"
+                },
+                "href": "https://api.spotify.com/v1/albums/77WGJcdFOAtDRGimkO77se",
+                "id": "77WGJcdFOAtDRGimkO77se",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d120f14005b074933e7e52bb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d120f14005b074933e7e52bb",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d120f14005b074933e7e52bb",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Trending Now Hindi – Top Songs India (Love, Sadness, Bolly Wood, Movies OST)",
+                "release_date": "2023-07-05",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:77WGJcdFOAtDRGimkO77se"
+            },
+            {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0GlSLkCH8JGN5SEHI5fP5V"
+                },
+                "href": "https://api.spotify.com/v1/albums/0GlSLkCH8JGN5SEHI5fP5V",
+                "id": "0GlSLkCH8JGN5SEHI5fP5V",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735f695df7c313a139f5e8ea5a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e025f695df7c313a139f5e8ea5a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048515f695df7c313a139f5e8ea5a",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Indie Hits",
+                "release_date": "2019-04-05",
+                "release_date_precision": "day",
+                "total_tracks": 22,
+                "type": "album",
+                "uri": "spotify:album:0GlSLkCH8JGN5SEHI5fP5V"
+            },
+            {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1T96ULZl0RFzkAAiFEMonG"
+                },
+                "href": "https://api.spotify.com/v1/albums/1T96ULZl0RFzkAAiFEMonG",
+                "id": "1T96ULZl0RFzkAAiFEMonG",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b550391409a0079fd2917d72",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b550391409a0079fd2917d72",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b550391409a0079fd2917d72",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Top 20 Most Viewed Songs Of The Decade (2010-2019)",
+                "release_date": "2020-02-06",
+                "release_date_precision": "day",
+                "total_tracks": 20,
+                "type": "album",
+                "uri": "spotify:album:1T96ULZl0RFzkAAiFEMonG"
+            },
+            {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1SbBh0wMxNNxqD59cN6L6u"
+                },
+                "href": "https://api.spotify.com/v1/albums/1SbBh0wMxNNxqD59cN6L6u",
+                "id": "1SbBh0wMxNNxqD59cN6L6u",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27336192e697deecb508a56cb95",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0236192e697deecb508a56cb95",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485136192e697deecb508a56cb95",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Trending Songs 2021",
+                "release_date": "2021-05-25",
+                "release_date_precision": "day",
+                "total_tracks": 47,
+                "type": "album",
+                "uri": "spotify:album:1SbBh0wMxNNxqD59cN6L6u"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6UE1TvbbosOhY8SFGp2B0n"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6UE1TvbbosOhY8SFGp2B0n",
+                        "id": "6UE1TvbbosOhY8SFGp2B0n",
+                        "name": "Top Hits 2024",
+                        "type": "artist",
+                        "uri": "spotify:artist:6UE1TvbbosOhY8SFGp2B0n"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/173A1DNdClvMfxvlfW4ncW"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/173A1DNdClvMfxvlfW4ncW",
+                        "id": "173A1DNdClvMfxvlfW4ncW",
+                        "name": "2024 Playlist",
+                        "type": "artist",
+                        "uri": "spotify:artist:173A1DNdClvMfxvlfW4ncW"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2lY7IRyiaIDfNxgIhU5Mvt"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2lY7IRyiaIDfNxgIhU5Mvt",
+                        "id": "2lY7IRyiaIDfNxgIhU5Mvt",
+                        "name": "Best Songs Of 2024",
+                        "type": "artist",
+                        "uri": "spotify:artist:2lY7IRyiaIDfNxgIhU5Mvt"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1rAboACrVvBUkQdc0tUv5R"
+                },
+                "href": "https://api.spotify.com/v1/albums/1rAboACrVvBUkQdc0tUv5R",
+                "id": "1rAboACrVvBUkQdc0tUv5R",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e6f9e06c22cae5517680eb2a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e6f9e06c22cae5517680eb2a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e6f9e06c22cae5517680eb2a",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Top Songs Of 2024",
+                "release_date": "2023-11-23",
+                "release_date_precision": "day",
+                "total_tracks": 5,
+                "type": "album",
+                "uri": "spotify:album:1rAboACrVvBUkQdc0tUv5R"
+            },
+            {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0qcvMU9wm0F5HvH1YVQWYy"
+                },
+                "href": "https://api.spotify.com/v1/albums/0qcvMU9wm0F5HvH1YVQWYy",
+                "id": "0qcvMU9wm0F5HvH1YVQWYy",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733d185f3653a1da033cc1add2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e023d185f3653a1da033cc1add2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048513d185f3653a1da033cc1add2",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Bollywood Trap Mix",
+                "release_date": "2022-10-23",
+                "release_date_precision": "day",
+                "total_tracks": 8,
+                "type": "album",
+                "uri": "spotify:album:0qcvMU9wm0F5HvH1YVQWYy"
+            },
+            {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/55r5w2Rv1NjipfrtSH1kYb"
+                },
+                "href": "https://api.spotify.com/v1/albums/55r5w2Rv1NjipfrtSH1kYb",
+                "id": "55r5w2Rv1NjipfrtSH1kYb",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732bc2bb6273d0bfc8770f6de9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022bc2bb6273d0bfc8770f6de9",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512bc2bb6273d0bfc8770f6de9",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Viral Hits: August 2023",
+                "release_date": "2023-09-07",
+                "release_date_precision": "day",
+                "total_tracks": 41,
+                "type": "album",
+                "uri": "spotify:album:55r5w2Rv1NjipfrtSH1kYb"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6MGnOdzzXNoGcUgfxMcSwA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6MGnOdzzXNoGcUgfxMcSwA",
+                        "id": "6MGnOdzzXNoGcUgfxMcSwA",
+                        "name": "Todays Top Hits",
+                        "type": "artist",
+                        "uri": "spotify:artist:6MGnOdzzXNoGcUgfxMcSwA"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7haeSqCyAAF7Zw5XRAllvJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7haeSqCyAAF7Zw5XRAllvJ",
+                        "id": "7haeSqCyAAF7Zw5XRAllvJ",
+                        "name": "Top Hits Today",
+                        "type": "artist",
+                        "uri": "spotify:artist:7haeSqCyAAF7Zw5XRAllvJ"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3em8fAvdK5h7tr7jf6wyAM"
+                },
+                "href": "https://api.spotify.com/v1/albums/3em8fAvdK5h7tr7jf6wyAM",
+                "id": "3em8fAvdK5h7tr7jf6wyAM",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733d842364c3fd24f529aab4d1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e023d842364c3fd24f529aab4d1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048513d842364c3fd24f529aab4d1",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "2023 Hit Songs Playlist Music Radio Mix",
+                "release_date": "2023-04-26",
+                "release_date_precision": "day",
+                "total_tracks": 17,
+                "type": "album",
+                "uri": "spotify:album:3em8fAvdK5h7tr7jf6wyAM"
+            },
+            {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2dItXypmeMVli42NpaHWbN"
+                },
+                "href": "https://api.spotify.com/v1/albums/2dItXypmeMVli42NpaHWbN",
+                "id": "2dItXypmeMVli42NpaHWbN",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b4c09a8299a84bacff24323f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b4c09a8299a84bacff24323f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b4c09a8299a84bacff24323f",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "#1 Trending Hits",
+                "release_date": "2020-12-18",
+                "release_date_precision": "day",
+                "total_tracks": 10,
+                "type": "album",
+                "uri": "spotify:album:2dItXypmeMVli42NpaHWbN"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6MGnOdzzXNoGcUgfxMcSwA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6MGnOdzzXNoGcUgfxMcSwA",
+                        "id": "6MGnOdzzXNoGcUgfxMcSwA",
+                        "name": "Todays Top Hits",
+                        "type": "artist",
+                        "uri": "spotify:artist:6MGnOdzzXNoGcUgfxMcSwA"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7haeSqCyAAF7Zw5XRAllvJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7haeSqCyAAF7Zw5XRAllvJ",
+                        "id": "7haeSqCyAAF7Zw5XRAllvJ",
+                        "name": "Top Hits Today",
+                        "type": "artist",
+                        "uri": "spotify:artist:7haeSqCyAAF7Zw5XRAllvJ"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4FVQ5bT83zpxtQyVZNQ5NW"
+                },
+                "href": "https://api.spotify.com/v1/albums/4FVQ5bT83zpxtQyVZNQ5NW",
+                "id": "4FVQ5bT83zpxtQyVZNQ5NW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732771ae6eaeef96c1db50e452",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022771ae6eaeef96c1db50e452",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512771ae6eaeef96c1db50e452",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Top Hits Today Top Hits Music Playlist 2023",
+                "release_date": "2023-11-14",
+                "release_date_precision": "day",
+                "total_tracks": 18,
+                "type": "album",
+                "uri": "spotify:album:4FVQ5bT83zpxtQyVZNQ5NW"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6MGnOdzzXNoGcUgfxMcSwA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6MGnOdzzXNoGcUgfxMcSwA",
+                        "id": "6MGnOdzzXNoGcUgfxMcSwA",
+                        "name": "Todays Top Hits",
+                        "type": "artist",
+                        "uri": "spotify:artist:6MGnOdzzXNoGcUgfxMcSwA"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7haeSqCyAAF7Zw5XRAllvJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7haeSqCyAAF7Zw5XRAllvJ",
+                        "id": "7haeSqCyAAF7Zw5XRAllvJ",
+                        "name": "Top Hits Today",
+                        "type": "artist",
+                        "uri": "spotify:artist:7haeSqCyAAF7Zw5XRAllvJ"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2L6pvTyUQzCtkkRXhOI0yR"
+                },
+                "href": "https://api.spotify.com/v1/albums/2L6pvTyUQzCtkkRXhOI0yR",
+                "id": "2L6pvTyUQzCtkkRXhOI0yR",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737faf0ed8b2388fc3531a3be9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e027faf0ed8b2388fc3531a3be9",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048517faf0ed8b2388fc3531a3be9",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Top Hit Songs Of 2023",
+                "release_date": "2023-04-12",
+                "release_date_precision": "day",
+                "total_tracks": 17,
+                "type": "album",
+                "uri": "spotify:album:2L6pvTyUQzCtkkRXhOI0yR"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7qgJkqICsYsUtU8a5SwG9b"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7qgJkqICsYsUtU8a5SwG9b",
+                        "id": "7qgJkqICsYsUtU8a5SwG9b",
+                        "name": "Top Hits 2023",
+                        "type": "artist",
+                        "uri": "spotify:artist:7qgJkqICsYsUtU8a5SwG9b"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/50KjEpBOQcIEWa0sOi0sji"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/50KjEpBOQcIEWa0sOi0sji",
+                        "id": "50KjEpBOQcIEWa0sOi0sji",
+                        "name": "Best Songs Of 2023",
+                        "type": "artist",
+                        "uri": "spotify:artist:50KjEpBOQcIEWa0sOi0sji"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4WIRa3FZcayVSVSPOcmVti"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4WIRa3FZcayVSVSPOcmVti",
+                        "id": "4WIRa3FZcayVSVSPOcmVti",
+                        "name": "2023 Playlist",
+                        "type": "artist",
+                        "uri": "spotify:artist:4WIRa3FZcayVSVSPOcmVti"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3UFvEdbw8RA4gkX6cMKjNA"
+                },
+                "href": "https://api.spotify.com/v1/albums/3UFvEdbw8RA4gkX6cMKjNA",
+                "id": "3UFvEdbw8RA4gkX6cMKjNA",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fd4b3d2a01edcccf5fd7dcab",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fd4b3d2a01edcccf5fd7dcab",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fd4b3d2a01edcccf5fd7dcab",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "New Hit Songs Of 2023 Playlist Instrumental Music",
+                "release_date": "2023-11-07",
+                "release_date_precision": "day",
+                "total_tracks": 18,
+                "type": "album",
+                "uri": "spotify:album:3UFvEdbw8RA4gkX6cMKjNA"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4WIRa3FZcayVSVSPOcmVti"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4WIRa3FZcayVSVSPOcmVti",
+                        "id": "4WIRa3FZcayVSVSPOcmVti",
+                        "name": "2023 Playlist",
+                        "type": "artist",
+                        "uri": "spotify:artist:4WIRa3FZcayVSVSPOcmVti"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/50KjEpBOQcIEWa0sOi0sji"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/50KjEpBOQcIEWa0sOi0sji",
+                        "id": "50KjEpBOQcIEWa0sOi0sji",
+                        "name": "Best Songs Of 2023",
+                        "type": "artist",
+                        "uri": "spotify:artist:50KjEpBOQcIEWa0sOi0sji"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7qgJkqICsYsUtU8a5SwG9b"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7qgJkqICsYsUtU8a5SwG9b",
+                        "id": "7qgJkqICsYsUtU8a5SwG9b",
+                        "name": "Top Hits 2023",
+                        "type": "artist",
+                        "uri": "spotify:artist:7qgJkqICsYsUtU8a5SwG9b"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5BofEHArDx10Crph9L7ZXH"
+                },
+                "href": "https://api.spotify.com/v1/albums/5BofEHArDx10Crph9L7ZXH",
+                "id": "5BofEHArDx10Crph9L7ZXH",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27330a410bd21882312ffbd958a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0230a410bd21882312ffbd958a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485130a410bd21882312ffbd958a",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Top Hits Radio 2023",
+                "release_date": "2023-07-14",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:5BofEHArDx10Crph9L7ZXH"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6hhgyoKVX6lJl3hdeivtU4"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6hhgyoKVX6lJl3hdeivtU4",
+                        "id": "6hhgyoKVX6lJl3hdeivtU4",
+                        "name": "2022 Hit Songs Music Mix",
+                        "type": "artist",
+                        "uri": "spotify:artist:6hhgyoKVX6lJl3hdeivtU4"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3h34J1AiEBRK4XvTqvEam0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3h34J1AiEBRK4XvTqvEam0",
+                        "id": "3h34J1AiEBRK4XvTqvEam0",
+                        "name": "2022 Hit Songs Playlist",
+                        "type": "artist",
+                        "uri": "spotify:artist:3h34J1AiEBRK4XvTqvEam0"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2CjbvYSZpd7wCTsaovnjNB"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2CjbvYSZpd7wCTsaovnjNB",
+                        "id": "2CjbvYSZpd7wCTsaovnjNB",
+                        "name": "Top Songs Of 2022",
+                        "type": "artist",
+                        "uri": "spotify:artist:2CjbvYSZpd7wCTsaovnjNB"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1hnrCSPSJLUtWZeMYl9zAt"
+                },
+                "href": "https://api.spotify.com/v1/albums/1hnrCSPSJLUtWZeMYl9zAt",
+                "id": "1hnrCSPSJLUtWZeMYl9zAt",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734556ae833f50e1280821b0c9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024556ae833f50e1280821b0c9",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514556ae833f50e1280821b0c9",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "New Hit Songs Of 2023",
+                "release_date": "2023-01-17",
+                "release_date_precision": "day",
+                "total_tracks": 17,
+                "type": "album",
+                "uri": "spotify:album:1hnrCSPSJLUtWZeMYl9zAt"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7qgJkqICsYsUtU8a5SwG9b"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7qgJkqICsYsUtU8a5SwG9b",
+                        "id": "7qgJkqICsYsUtU8a5SwG9b",
+                        "name": "Top Hits 2023",
+                        "type": "artist",
+                        "uri": "spotify:artist:7qgJkqICsYsUtU8a5SwG9b"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/50KjEpBOQcIEWa0sOi0sji"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/50KjEpBOQcIEWa0sOi0sji",
+                        "id": "50KjEpBOQcIEWa0sOi0sji",
+                        "name": "Best Songs Of 2023",
+                        "type": "artist",
+                        "uri": "spotify:artist:50KjEpBOQcIEWa0sOi0sji"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4WIRa3FZcayVSVSPOcmVti"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4WIRa3FZcayVSVSPOcmVti",
+                        "id": "4WIRa3FZcayVSVSPOcmVti",
+                        "name": "2023 Playlist",
+                        "type": "artist",
+                        "uri": "spotify:artist:4WIRa3FZcayVSVSPOcmVti"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/61017tFezEY4XDyWtGN1SD"
+                },
+                "href": "https://api.spotify.com/v1/albums/61017tFezEY4XDyWtGN1SD",
+                "id": "61017tFezEY4XDyWtGN1SD",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730be09212adc9b194278cb16e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020be09212adc9b194278cb16e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510be09212adc9b194278cb16e",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Best Hits Year End 2023",
+                "release_date": "2023-12-07",
+                "release_date_precision": "day",
+                "total_tracks": 6,
+                "type": "album",
+                "uri": "spotify:album:61017tFezEY4XDyWtGN1SD"
+            },
+            {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1kviuKCn7SaRHnUlaqfbfV"
+                },
+                "href": "https://api.spotify.com/v1/albums/1kviuKCn7SaRHnUlaqfbfV",
+                "id": "1kviuKCn7SaRHnUlaqfbfV",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c9c0989360c9d206e2706cb1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c9c0989360c9d206e2706cb1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c9c0989360c9d206e2706cb1",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "Top Trending Hits Vol.5",
+                "release_date": "2022-03-18",
+                "release_date_precision": "day",
+                "total_tracks": 50,
+                "type": "album",
+                "uri": "spotify:album:1kviuKCn7SaRHnUlaqfbfV"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1hUujSRQatoporxnDDKs1W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1hUujSRQatoporxnDDKs1W",
+                        "id": "1hUujSRQatoporxnDDKs1W",
+                        "name": "Maya Nancy",
+                        "type": "artist",
+                        "uri": "spotify:artist:1hUujSRQatoporxnDDKs1W"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2FPO1BH6IV9BKgXwdDqpRp"
+                },
+                "href": "https://api.spotify.com/v1/albums/2FPO1BH6IV9BKgXwdDqpRp",
+                "id": "2FPO1BH6IV9BKgXwdDqpRp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732a2afc7f44fa8982bf6b6651",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022a2afc7f44fa8982bf6b6651",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512a2afc7f44fa8982bf6b6651",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "2020 Indian Restaurant: Relaxing Background Music from India",
+                "release_date": "2020-01-22",
+                "release_date_precision": "day",
+                "total_tracks": 20,
+                "type": "album",
+                "uri": "spotify:album:2FPO1BH6IV9BKgXwdDqpRp"
+            }
+        ],
+        "limit": 20,
+        "next": "https://api.spotify.com/v1/search?query=top+albums+2023+india&type=album&market=IN&offset=30&limit=20",
+        "offset": 10,
+        "previous": "https://api.spotify.com/v1/search?query=top+albums+2023+india&type=album&market=IN&offset=0&limit=20",
+        "total": 800
+    }
+}
