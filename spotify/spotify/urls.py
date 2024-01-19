@@ -21,5 +21,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('tracks/', views.track_list, name='track_list'),
     path('arts/', views.artistic_top_tracks, name='artistic_top_tracks'),
-    path('search/',views.playlist_detail, name='playlist_detail')
+    path('search/',views.playlist_detail, name='playlist_detail'),
+    path('aalbums/',views.all_album_tracks, name='all_album_tracks')
 ]

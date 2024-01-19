@@ -45,7 +45,7 @@ def artistic_top_tracks(request):
 from django.shortcuts import render
 
 def playlist_detail(request):
-    with open('C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/test_functions/test.json', 'r') as outputfile:
+    with open('C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/output_jsons/search_data.json', 'r') as outputfile:
         data = json.load(outputfile)
     
     album_list_info = []
@@ -68,3 +68,41 @@ def playlist_detail(request):
         album_list_info.append(album_info)
          
     return render(request, 'playlist_detail.html', {'playlist_data': album_list_info})
+
+def all_album_tracks(request):
+    with open('C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/output_jsons/album_all_data_final.json','r') as all:
+        album_data = json.load(all)
+    album_details = []
+    image_details = []
+    
+    all_data = []
+    for records_1 in album_data:
+        track_all_data =[]
+        artist_data_ii = []
+        for artist_data_1 in records_1['artists']:
+            artist = artist_data_1['name']
+            artist_data_ii.append(artist)
+        for tracks in records_1['tracks']['items']:
+            artist_data_iii = []
+            for arts in tracks['artists']:
+                track_artist = arts['name']
+                artist_data_iii.append(track_artist)
+            detail_tracks = {
+                'name' : tracks['name'],
+                'Duration' : tracks['duration_ms'],
+                'external_url' : tracks['external_urls'],
+                'song_url': tracks['preview_url'],
+                'track_artist': artist_data_iii
+            }
+            track_all_data.append(detail_tracks)
+        image_details = {
+            'image': records_1['images'][1],
+            'name' : records_1['name'],
+            'tracks' : records_1['total_tracks'],
+            'album_artist' : artist_data_ii,
+            'Externalurl' : records_1['external_urls'],
+            "track_details" : track_all_data
+        }
+        all_data.append(image_details)
+    return render(request, 'all_album_template.html', {'all_data': all_data})
+    

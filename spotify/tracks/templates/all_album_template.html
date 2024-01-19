@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: black;
+            color: rgb(238, 146, 146);
+            font-family: Arial, sans-serif;
+        }
+
+        div {
+            display: flex;
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid rgb(154, 83, 83);
+        }
+
+        img {
+            max-width: 100%;
+            height: 100%;
+            display: block;
+            margin-right: 20px;
+        }
+
+        h2, h3, h4 {
+            color: #edf1f2;
+        }
+
+        a {
+            color: #eff2f3;
+        }
+
+        hr {
+            border: 1px solid rgb(241, 205, 205);
+            margin: 20px 0;
+        }
+
+        /* Album details column */
+        .album-details {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        /* Scrollable box for track details */
+        .track-details-box {
+            max-height: 300px;
+            overflow-y: auto;
+            border: 1px solid white;
+            padding: 10px;
+            margin-top: 10px;
+            text-align: center;  /* Center text */
+        }
+
+        .track-details-box ul {
+            list-style-type: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .track-details-box li {
+            width: 30%;  /* Display three in one row */
+            margin-bottom: 10px;
+        }
+    </style>
+    <title>Album Details</title>
+</head>
+<body>
+    {% for album in all_data %}
+        <div>
+            <img src="{{ album.image.url }}" alt="{{ album.name }}">
+            <div class="album-details">
+                <h2>{{ album.name }}</h2>
+                <p>Total Tracks: {{ album.tracks }}</p>
+
+                <div>
+                    <h3>Album Artists:</h3>
+                    <ul>
+                        {% for artist in album.album_artist %}
+                            <li>{{ artist }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+
+            <div class="track-details-box">
+                <h3>Track Details:</h3>
+                <ul>
+                    {% for track in album.track_details %}
+                        <li>
+                            <strong>{{ track.name }}</strong>
+                            <p>Duration: {{ track.Duration }} ms</p>
+                            <p>Preview URL: <a href="{{ track.song_url }}" target="_blank">Click Here for Song</a></p>
+                            
+                            <h4>Track Artists:</h4>
+                            <ul>
+                                {% for track_artist in track.track_artist %}
+                                    <li>{{ track_artist }}</li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <hr>
+    {% endfor %}
+</body>
+</html>
