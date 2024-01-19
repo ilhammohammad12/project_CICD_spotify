@@ -193,7 +193,7 @@ for records in data:
     uri_full = uri.group(1)
     uris.append(uri_full)
 
-for uri in uris:
+"""for uri in uris:
     #print(uri)
     urls = "https://api.spotify.com/v1/albums/"+uri+"/tracks?market=IN&limit=50"
     headers = {
@@ -207,8 +207,27 @@ for uri in uris:
         data = response.json()
         complete_data.append(data)
     else:
+        print(response.status_code)"""
+albumdata = []
+for uri in uris:
+    urls = "https://api.spotify.com/v1/albums/"+uri+"?market=IN"
+    headers = {
+    "Authorization": f"Bearer  BQCNQLl-QLQ_BTdSNbAW10Gg0hG4zW-3LmHT4mow9WFDm9lMIOAulPaUYeliMV_8vyYsTGNS31RWl_pv1Fy0SXH6Gotn9AmwJL0ng7Wvo1ZbPTl34DY",    
+    "Content-Type": "application/x-www-form-urlencoded"
+    }
+
+    response = requests.get(urls,headers=headers)
+
+    if response.status_code == 200:
+        datas = response.json()
+        albumdata.append(datas)
+    else:
         print(response.status_code)
 
-output_file_path = "album_list_tracks_final.json"
+output_file_path = "album_all_data_final.json"
 with open(output_file_path, "w") as output_file:
-    json.dump(complete_data, output_file, indent=2)
+    json.dump(albumdata, output_file, indent=2)
+
+"""output_file_path = "album_list_tracks_final.json"
+with open(output_file_path, "w") as output_file:
+    json.dump(complete_data, output_file, indent=2)"""

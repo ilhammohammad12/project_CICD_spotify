@@ -1,0 +1,2552 @@
+{
+  "albums": {
+    "href": "https://api.spotify.com/v1/search?query=telugusongs+2023+india&type=album&market=IN&offset=10&limit=50",
+    "items": [
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+            },
+            "href": "https://api.spotify.com/v1/artists/2q1LRGJHpFxovU8Tz6OgRn",
+            "id": "2q1LRGJHpFxovU8Tz6OgRn",
+            "name": "Ravi Basrur",
+            "type": "artist",
+            "uri": "spotify:artist:2q1LRGJHpFxovU8Tz6OgRn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2yvOLf1gt6m9qPgzzqpxQx",
+            "id": "2yvOLf1gt6m9qPgzzqpxQx",
+            "name": "Krishna Kanth",
+            "type": "artist",
+            "uri": "spotify:artist:2yvOLf1gt6m9qPgzzqpxQx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
+            },
+            "href": "https://api.spotify.com/v1/artists/1lr0MlyZ8Q24eFtn7gcMmI",
+            "id": "1lr0MlyZ8Q24eFtn7gcMmI",
+            "name": "Harini Ivaturi",
+            "type": "artist",
+            "uri": "spotify:artist:1lr0MlyZ8Q24eFtn7gcMmI"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5FW8Ypbbg0hASh6jLtNZ3Z"
+        },
+        "href": "https://api.spotify.com/v1/albums/5FW8Ypbbg0hASh6jLtNZ3Z",
+        "id": "5FW8Ypbbg0hASh6jLtNZ3Z",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273074d0a899a0b9bbdeab3ba94",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02074d0a899a0b9bbdeab3ba94",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851074d0a899a0b9bbdeab3ba94",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Sooreede (From \"Salaar Cease Fire - Telugu\")",
+        "release_date": "2023-12-13",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:5FW8Ypbbg0hASh6jLtNZ3Z"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+            },
+            "href": "https://api.spotify.com/v1/artists/6AiX12wXdXFoGJ2vk8zBjy",
+            "id": "6AiX12wXdXFoGJ2vk8zBjy",
+            "name": "Yuvan Shankar Raja",
+            "type": "artist",
+            "uri": "spotify:artist:6AiX12wXdXFoGJ2vk8zBjy"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4F9lI7xMQSG7BVM3dOC41U"
+        },
+        "href": "https://api.spotify.com/v1/albums/4F9lI7xMQSG7BVM3dOC41U",
+        "id": "4F9lI7xMQSG7BVM3dOC41U",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ce02b255bee09211872e25fe",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ce02b255bee09211872e25fe",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ce02b255bee09211872e25fe",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Love Today (Telugu) [Original Motion Picture Soundtrack]",
+        "release_date": "2022-11-21",
+        "release_date_precision": "day",
+        "total_tracks": 3,
+        "type": "album",
+        "uri": "spotify:album:4F9lI7xMQSG7BVM3dOC41U"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+            },
+            "href": "https://api.spotify.com/v1/artists/4A2XSc4OJjuPY4l6NjnrDj",
+            "id": "4A2XSc4OJjuPY4l6NjnrDj",
+            "name": "Ram Miriyala",
+            "type": "artist",
+            "uri": "spotify:artist:4A2XSc4OJjuPY4l6NjnrDj"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0"
+        },
+        "href": "https://api.spotify.com/v1/albums/3loo3ZQ43Rsu0FdtorNZE0",
+        "id": "3loo3ZQ43Rsu0FdtorNZE0",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d4f893fa639b6ae966557a89",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d4f893fa639b6ae966557a89",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d4f893fa639b6ae966557a89",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "DJ Tillu",
+        "release_date": "2022-01-06",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3loo3ZQ43Rsu0FdtorNZE0"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+            },
+            "href": "https://api.spotify.com/v1/artists/4A2XSc4OJjuPY4l6NjnrDj",
+            "id": "4A2XSc4OJjuPY4l6NjnrDj",
+            "name": "Ram Miriyala",
+            "type": "artist",
+            "uri": "spotify:artist:4A2XSc4OJjuPY4l6NjnrDj"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7ujJhfGKy2qKe2OBQqw173"
+        },
+        "href": "https://api.spotify.com/v1/albums/7ujJhfGKy2qKe2OBQqw173",
+        "id": "7ujJhfGKy2qKe2OBQqw173",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ef85991a22b950a9e4e3398",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029ef85991a22b950a9e4e3398",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519ef85991a22b950a9e4e3398",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Tillu Square",
+        "release_date": "2023-11-27",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:7ujJhfGKy2qKe2OBQqw173"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+            },
+            "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+            "id": "12l1SqSNsg2mI2IcXpPWjR",
+            "name": "M. M. Keeravani",
+            "type": "artist",
+            "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1zRi3hQRS6HAUCf84qMnN8"
+        },
+        "href": "https://api.spotify.com/v1/albums/1zRi3hQRS6HAUCf84qMnN8",
+        "id": "1zRi3hQRS6HAUCf84qMnN8",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c64ff5d8efd65b7262024bd3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c64ff5d8efd65b7262024bd3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c64ff5d8efd65b7262024bd3",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "RRR",
+        "release_date": "2022-04-16",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:1zRi3hQRS6HAUCf84qMnN8"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+            },
+            "href": "https://api.spotify.com/v1/artists/2q1LRGJHpFxovU8Tz6OgRn",
+            "id": "2q1LRGJHpFxovU8Tz6OgRn",
+            "name": "Ravi Basrur",
+            "type": "artist",
+            "uri": "spotify:artist:2q1LRGJHpFxovU8Tz6OgRn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2yvOLf1gt6m9qPgzzqpxQx",
+            "id": "2yvOLf1gt6m9qPgzzqpxQx",
+            "name": "Krishna Kanth",
+            "type": "artist",
+            "uri": "spotify:artist:2yvOLf1gt6m9qPgzzqpxQx"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6LBXEC2wsCrhOjF0Vhn5hj"
+        },
+        "href": "https://api.spotify.com/v1/albums/6LBXEC2wsCrhOjF0Vhn5hj",
+        "id": "6LBXEC2wsCrhOjF0Vhn5hj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736400a6bda2c36aa9483be316",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026400a6bda2c36aa9483be316",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516400a6bda2c36aa9483be316",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Salaar Cease Fire - Telugu (Original Motion Picture Soundtrack)",
+        "release_date": "2024-01-03",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:6LBXEC2wsCrhOjF0Vhn5hj"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0L5f9aJIaxQXTipZ7uQYiC",
+            "id": "0L5f9aJIaxQXTipZ7uQYiC",
+            "name": "Bheems Ceciroleo",
+            "type": "artist",
+            "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/78dRkzSClqQflMC99JT9Fh"
+        },
+        "href": "https://api.spotify.com/v1/albums/78dRkzSClqQflMC99JT9Fh",
+        "id": "78dRkzSClqQflMC99JT9Fh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27342205a4188c0c8ba29b81e24",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0242205a4188c0c8ba29b81e24",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485142205a4188c0c8ba29b81e24",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Balagam",
+        "release_date": "2023-02-06",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:78dRkzSClqQflMC99JT9Fh"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
+            },
+            "href": "https://api.spotify.com/v1/artists/05ppw2jwDfW9zo4mj6HNXp",
+            "id": "05ppw2jwDfW9zo4mj6HNXp",
+            "name": "Anup Rubens",
+            "type": "artist",
+            "uri": "spotify:artist:05ppw2jwDfW9zo4mj6HNXp"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2OgVFYem1WFhNgOPuBa9zX"
+        },
+        "href": "https://api.spotify.com/v1/albums/2OgVFYem1WFhNgOPuBa9zX",
+        "id": "2OgVFYem1WFhNgOPuBa9zX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732d748ba3399f16d3475519f4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022d748ba3399f16d3475519f4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512d748ba3399f16d3475519f4",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Ishq",
+        "release_date": "2012-02-03",
+        "release_date_precision": "day",
+        "total_tracks": 6,
+        "type": "album",
+        "uri": "spotify:album:2OgVFYem1WFhNgOPuBa9zX"
+      },
+      {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1SbBh0wMxNNxqD59cN6L6u"
+        },
+        "href": "https://api.spotify.com/v1/albums/1SbBh0wMxNNxqD59cN6L6u",
+        "id": "1SbBh0wMxNNxqD59cN6L6u",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27336192e697deecb508a56cb95",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0236192e697deecb508a56cb95",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485136192e697deecb508a56cb95",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Trending Songs 2021",
+        "release_date": "2021-05-25",
+        "release_date_precision": "day",
+        "total_tracks": 47,
+        "type": "album",
+        "uri": "spotify:album:1SbBh0wMxNNxqD59cN6L6u"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0L5f9aJIaxQXTipZ7uQYiC",
+            "id": "0L5f9aJIaxQXTipZ7uQYiC",
+            "name": "Bheems Ceciroleo",
+            "type": "artist",
+            "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/34y8xs6VBq9OldZUZGgZ4h"
+        },
+        "href": "https://api.spotify.com/v1/albums/34y8xs6VBq9OldZUZGgZ4h",
+        "id": "34y8xs6VBq9OldZUZGgZ4h",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f27e66c059db8817ff3a82b0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f27e66c059db8817ff3a82b0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f27e66c059db8817ff3a82b0",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Balagam",
+        "release_date": "2023-02-17",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:34y8xs6VBq9OldZUZGgZ4h"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+            },
+            "href": "https://api.spotify.com/v1/artists/5wJ1H6ud777odtZl5gG507",
+            "id": "5wJ1H6ud777odtZl5gG507",
+            "name": "Vishal Mishra",
+            "type": "artist",
+            "uri": "spotify:artist:5wJ1H6ud777odtZl5gG507"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+            },
+            "href": "https://api.spotify.com/v1/artists/1H4ZvA2yyK7wCmbvEUWvPn",
+            "id": "1H4ZvA2yyK7wCmbvEUWvPn",
+            "name": "Rahul Sipligunj",
+            "type": "artist",
+            "uri": "spotify:artist:1H4ZvA2yyK7wCmbvEUWvPn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+            },
+            "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+            "id": "12l1SqSNsg2mI2IcXpPWjR",
+            "name": "M. M. Keeravani",
+            "type": "artist",
+            "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1i4dE3ZSEKUVNA85Lr5nbA"
+        },
+        "href": "https://api.spotify.com/v1/albums/1i4dE3ZSEKUVNA85Lr5nbA",
+        "id": "1i4dE3ZSEKUVNA85Lr5nbA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734c30b2c8eaa6ed1b01c518a6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024c30b2c8eaa6ed1b01c518a6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514c30b2c8eaa6ed1b01c518a6",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Naacho Naacho (From \"Rrr\")",
+        "release_date": "2021-11-10",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1i4dE3ZSEKUVNA85Lr5nbA"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5UJ2sHO2ELrgW6aXeRLTQQ",
+            "id": "5UJ2sHO2ELrgW6aXeRLTQQ",
+            "name": "Chinmayi",
+            "type": "artist",
+            "uri": "spotify:artist:5UJ2sHO2ELrgW6aXeRLTQQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+            },
+            "href": "https://api.spotify.com/v1/artists/7qjJw7ZM2ekDSahLXPjIlN",
+            "id": "7qjJw7ZM2ekDSahLXPjIlN",
+            "name": "Sid Sriram",
+            "type": "artist",
+            "uri": "spotify:artist:7qjJw7ZM2ekDSahLXPjIlN"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/62chKXYp8WYa4B9t4Fa5V5"
+        },
+        "href": "https://api.spotify.com/v1/albums/62chKXYp8WYa4B9t4Fa5V5",
+        "id": "62chKXYp8WYa4B9t4Fa5V5",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273615d29e99e28b90b937cf1d3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02615d29e99e28b90b937cf1d3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851615d29e99e28b90b937cf1d3",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Sid Sriram - The All Rounder",
+        "release_date": "2023-04-05",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:62chKXYp8WYa4B9t4Fa5V5"
+      },
+      {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/05p4zDqJJIBHHRa5xRpTBw"
+        },
+        "href": "https://api.spotify.com/v1/albums/05p4zDqJJIBHHRa5xRpTBw",
+        "id": "05p4zDqJJIBHHRa5xRpTBw",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c308cd32f952437df4a5ec01",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c308cd32f952437df4a5ec01",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c308cd32f952437df4a5ec01",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Latest Telugu Hits, Vol. 01 (Jhankar Beats)",
+        "release_date": "2023-03-07",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:05p4zDqJJIBHHRa5xRpTBw"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+            },
+            "href": "https://api.spotify.com/v1/artists/6LWyVEIBnx7MoRBhQxu9om",
+            "id": "6LWyVEIBnx7MoRBhQxu9om",
+            "name": "Anurag Kulkarni",
+            "type": "artist",
+            "uri": "spotify:artist:6LWyVEIBnx7MoRBhQxu9om"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+            },
+            "href": "https://api.spotify.com/v1/artists/3JGrxsZ6kfzJrfwsxwERhS",
+            "id": "3JGrxsZ6kfzJrfwsxwERhS",
+            "name": "M.M.Manasi",
+            "type": "artist",
+            "uri": "spotify:artist:3JGrxsZ6kfzJrfwsxwERhS"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0RC338EUYQEui7FB30Iifa"
+        },
+        "href": "https://api.spotify.com/v1/albums/0RC338EUYQEui7FB30Iifa",
+        "id": "0RC338EUYQEui7FB30Iifa",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734dcefbf4ebef38daad5631dc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024dcefbf4ebef38daad5631dc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514dcefbf4ebef38daad5631dc",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Ranjithame (From \"Vaarasudu\") [Telugu]",
+        "release_date": "2022-11-30",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0RC338EUYQEui7FB30Iifa"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+            },
+            "href": "https://api.spotify.com/v1/artists/6umn0ODoYa5UsGpswA99gx",
+            "id": "6umn0ODoYa5UsGpswA99gx",
+            "name": "Vijai Bulganin",
+            "type": "artist",
+            "uri": "spotify:artist:6umn0ODoYa5UsGpswA99gx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2bfyLSCw72lQ5qoD8cdVBB",
+            "id": "2bfyLSCw72lQ5qoD8cdVBB",
+            "name": "Sreerama Chandra",
+            "type": "artist",
+            "uri": "spotify:artist:2bfyLSCw72lQ5qoD8cdVBB"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT"
+        },
+        "href": "https://api.spotify.com/v1/albums/41kHCtyyqx2V4cJx4qlDDT",
+        "id": "41kHCtyyqx2V4cJx4qlDDT",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27351f8976e8a10d0d2bbeb4300",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0251f8976e8a10d0d2bbeb4300",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485151f8976e8a10d0d2bbeb4300",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
+        "release_date": "2022-12-20",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:41kHCtyyqx2V4cJx4qlDDT"
+      },
+      {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7gErZg7XRuXGKutHCxLALG"
+        },
+        "href": "https://api.spotify.com/v1/albums/7gErZg7XRuXGKutHCxLALG",
+        "id": "7gErZg7XRuXGKutHCxLALG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737e8aeb013438097577833a94",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027e8aeb013438097577833a94",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517e8aeb013438097577833a94",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "TikTok Pop Hits 2022 | 2023",
+        "release_date": "2022-12-16",
+        "release_date_precision": "day",
+        "total_tracks": 64,
+        "type": "album",
+        "uri": "spotify:album:7gErZg7XRuXGKutHCxLALG"
+      },
+      {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6TfLp3ERbKEz1bpvfzreJs"
+        },
+        "href": "https://api.spotify.com/v1/albums/6TfLp3ERbKEz1bpvfzreJs",
+        "id": "6TfLp3ERbKEz1bpvfzreJs",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cff55f9836b09eb3728abb2a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cff55f9836b09eb3728abb2a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cff55f9836b09eb3728abb2a",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Tollywood Teenmaar Hits",
+        "release_date": "2023-10-05",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:6TfLp3ERbKEz1bpvfzreJs"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql"
+            },
+            "href": "https://api.spotify.com/v1/artists/11bBHpkCZPkktTsrXAZyql",
+            "id": "11bBHpkCZPkktTsrXAZyql",
+            "name": "Anudeep Dev",
+            "type": "artist",
+            "uri": "spotify:artist:11bBHpkCZPkktTsrXAZyql"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2ogBMV4xBxzWqWXNKkKzGl"
+            },
+            "href": "https://api.spotify.com/v1/artists/2ogBMV4xBxzWqWXNKkKzGl",
+            "id": "2ogBMV4xBxzWqWXNKkKzGl",
+            "name": "Sahithi Galidevara",
+            "type": "artist",
+            "uri": "spotify:artist:2ogBMV4xBxzWqWXNKkKzGl"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pUDplFVaUkZa21SUnLWDb"
+            },
+            "href": "https://api.spotify.com/v1/artists/5pUDplFVaUkZa21SUnLWDb",
+            "id": "5pUDplFVaUkZa21SUnLWDb",
+            "name": "Simhachalam Mannela",
+            "type": "artist",
+            "uri": "spotify:artist:5pUDplFVaUkZa21SUnLWDb"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/71wWDHdaeGsn2c07ir9bMq"
+        },
+        "href": "https://api.spotify.com/v1/albums/71wWDHdaeGsn2c07ir9bMq",
+        "id": "71wWDHdaeGsn2c07ir9bMq",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f4c4a76566e9371c6329464",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020f4c4a76566e9371c6329464",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510f4c4a76566e9371c6329464",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Avakaya Anjaneya (From \"HanuMan\") [Telugu] [Original Motion Picture Soundtrack]",
+        "release_date": "2023-11-28",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:71wWDHdaeGsn2c07ir9bMq"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+            },
+            "href": "https://api.spotify.com/v1/artists/3qpyErDI4i90q5EGgSRmNK",
+            "id": "3qpyErDI4i90q5EGgSRmNK",
+            "name": "Raghav Chaitanya",
+            "type": "artist",
+            "uri": "spotify:artist:3qpyErDI4i90q5EGgSRmNK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+            },
+            "href": "https://api.spotify.com/v1/artists/73q7QOnwGy6huqoJ9JCRYD",
+            "id": "73q7QOnwGy6huqoJ9JCRYD",
+            "name": "Anantha Sreeram",
+            "type": "artist",
+            "uri": "spotify:artist:73q7QOnwGy6huqoJ9JCRYD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+            },
+            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+            "id": "1wRPtKGflJrBx9BmLsSwlU",
+            "name": "Pritam",
+            "type": "artist",
+            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7yX0aK1kUsyMKEaoLUfPag"
+        },
+        "href": "https://api.spotify.com/v1/albums/7yX0aK1kUsyMKEaoLUfPag",
+        "id": "7yX0aK1kUsyMKEaoLUfPag",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b270a0c7b06dc5a669ee03f1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b270a0c7b06dc5a669ee03f1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b270a0c7b06dc5a669ee03f1",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Ammayi (From \"ANIMAL\") [TELUGU]",
+        "release_date": "2023-10-11",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:7yX0aK1kUsyMKEaoLUfPag"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+            },
+            "href": "https://api.spotify.com/v1/artists/2q1LRGJHpFxovU8Tz6OgRn",
+            "id": "2q1LRGJHpFxovU8Tz6OgRn",
+            "name": "Ravi Basrur",
+            "type": "artist",
+            "uri": "spotify:artist:2q1LRGJHpFxovU8Tz6OgRn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2yvOLf1gt6m9qPgzzqpxQx",
+            "id": "2yvOLf1gt6m9qPgzzqpxQx",
+            "name": "Krishna Kanth",
+            "type": "artist",
+            "uri": "spotify:artist:2yvOLf1gt6m9qPgzzqpxQx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Izuio7qwe8nqf5T2ReoC4"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Izuio7qwe8nqf5T2ReoC4",
+            "id": "7Izuio7qwe8nqf5T2ReoC4",
+            "name": "Ravi Basrur and Team",
+            "type": "artist",
+            "uri": "spotify:artist:7Izuio7qwe8nqf5T2ReoC4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1yavzy0wc5SNydz9RFR9Wu"
+        },
+        "href": "https://api.spotify.com/v1/albums/1yavzy0wc5SNydz9RFR9Wu",
+        "id": "1yavzy0wc5SNydz9RFR9Wu",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27398778c060b860485f6a1e986",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0298778c060b860485f6a1e986",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485198778c060b860485f6a1e986",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Prathi Gaadhalo (From \"Salaar Cease Fire - Telugu\")",
+        "release_date": "2023-12-21",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1yavzy0wc5SNydz9RFR9Wu"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fdpSsYQvHfaNCNW9nWd2d"
+            },
+            "href": "https://api.spotify.com/v1/artists/0fdpSsYQvHfaNCNW9nWd2d",
+            "id": "0fdpSsYQvHfaNCNW9nWd2d",
+            "name": "New Hindi Gana",
+            "type": "artist",
+            "uri": "spotify:artist:0fdpSsYQvHfaNCNW9nWd2d"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/006E9y7AizqWR01oRWagrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/006E9y7AizqWR01oRWagrY",
+            "id": "006E9y7AizqWR01oRWagrY",
+            "name": "Indian Dinga Dinga",
+            "type": "artist",
+            "uri": "spotify:artist:006E9y7AizqWR01oRWagrY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74kd8l3AEfk5YHYYbnl2fV"
+            },
+            "href": "https://api.spotify.com/v1/artists/74kd8l3AEfk5YHYYbnl2fV",
+            "id": "74kd8l3AEfk5YHYYbnl2fV",
+            "name": "Hindi Band",
+            "type": "artist",
+            "uri": "spotify:artist:74kd8l3AEfk5YHYYbnl2fV"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/77WGJcdFOAtDRGimkO77se"
+        },
+        "href": "https://api.spotify.com/v1/albums/77WGJcdFOAtDRGimkO77se",
+        "id": "77WGJcdFOAtDRGimkO77se",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d120f14005b074933e7e52bb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d120f14005b074933e7e52bb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d120f14005b074933e7e52bb",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Trending Now Hindi \u2013 Top Songs India (Love, Sadness, Bolly Wood, Movies OST)",
+        "release_date": "2023-07-05",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:77WGJcdFOAtDRGimkO77se"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+            },
+            "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
+            "id": "4zCH9qm4R2DADamUHMCa6O",
+            "name": "Anirudh Ravichander",
+            "type": "artist",
+            "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5J1XhEG5CrCThq6bL9pzoY"
+        },
+        "href": "https://api.spotify.com/v1/albums/5J1XhEG5CrCThq6bL9pzoY",
+        "id": "5J1XhEG5CrCThq6bL9pzoY",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737f8c4008eef517ae4d2a5b2d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027f8c4008eef517ae4d2a5b2d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517f8c4008eef517ae4d2a5b2d",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Leo (Telugu) [Original Motion Picture Soundtrack]",
+        "release_date": "2023-10-20",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:5J1XhEG5CrCThq6bL9pzoY"
+      },
+      {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3vZhzg2GxKIIR4rtmJeUk2"
+        },
+        "href": "https://api.spotify.com/v1/albums/3vZhzg2GxKIIR4rtmJeUk2",
+        "id": "3vZhzg2GxKIIR4rtmJeUk2",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738b30c16d1d8f0a7a7f942641",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028b30c16d1d8f0a7a7f942641",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518b30c16d1d8f0a7a7f942641",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Trending 2021",
+        "release_date": "2021-01-22",
+        "release_date_precision": "day",
+        "total_tracks": 33,
+        "type": "album",
+        "uri": "spotify:album:3vZhzg2GxKIIR4rtmJeUk2"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5sSzCxHtgL82pYDvx2QyEU",
+            "id": "5sSzCxHtgL82pYDvx2QyEU",
+            "name": "Devi Sri Prasad",
+            "type": "artist",
+            "uri": "spotify:artist:5sSzCxHtgL82pYDvx2QyEU"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1Jm0qi6n9zlgOoC0J7hvxF"
+        },
+        "href": "https://api.spotify.com/v1/albums/1Jm0qi6n9zlgOoC0J7hvxF",
+        "id": "1Jm0qi6n9zlgOoC0J7hvxF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273607215d9fc1bd4f43f486aa6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02607215d9fc1bd4f43f486aa6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851607215d9fc1bd4f43f486aa6",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Fresh Face To Tollywood",
+        "release_date": "2022-04-01",
+        "release_date_precision": "day",
+        "total_tracks": 25,
+        "type": "album",
+        "uri": "spotify:album:1Jm0qi6n9zlgOoC0J7hvxF"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT"
+            },
+            "href": "https://api.spotify.com/v1/artists/3lnECmHir8dXsqVV0QuruT",
+            "id": "3lnECmHir8dXsqVV0QuruT",
+            "name": "Sricharan Pakala",
+            "type": "artist",
+            "uri": "spotify:artist:3lnECmHir8dXsqVV0QuruT"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4XKcUnvMK746NIs78WjnU7"
+        },
+        "href": "https://api.spotify.com/v1/albums/4XKcUnvMK746NIs78WjnU7",
+        "id": "4XKcUnvMK746NIs78WjnU7",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a9b7e9f7c97cba3c439d1eb1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a9b7e9f7c97cba3c439d1eb1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a9b7e9f7c97cba3c439d1eb1",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "DJ Tillu",
+        "release_date": "2022-01-24",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4XKcUnvMK746NIs78WjnU7"
+      },
+      {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3myFy0olxPwery8YBidizK"
+        },
+        "href": "https://api.spotify.com/v1/albums/3myFy0olxPwery8YBidizK",
+        "id": "3myFy0olxPwery8YBidizK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733a0771c37a8c2ff25974a359",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023a0771c37a8c2ff25974a359",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513a0771c37a8c2ff25974a359",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Trending Now Volume 3",
+        "release_date": "2020-09-11",
+        "release_date_precision": "day",
+        "total_tracks": 28,
+        "type": "album",
+        "uri": "spotify:album:3myFy0olxPwery8YBidizK"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+            },
+            "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
+            "id": "4zCH9qm4R2DADamUHMCa6O",
+            "name": "Anirudh Ravichander",
+            "type": "artist",
+            "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6HQvXy8EdBsmTx38Bp8KBZ"
+        },
+        "href": "https://api.spotify.com/v1/albums/6HQvXy8EdBsmTx38Bp8KBZ",
+        "id": "6HQvXy8EdBsmTx38Bp8KBZ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27394d83372216961a1b7238427",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0294d83372216961a1b7238427",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485194d83372216961a1b7238427",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Jawan (TELUGU)",
+        "release_date": "2023-09-05",
+        "release_date_precision": "day",
+        "total_tracks": 6,
+        "type": "album",
+        "uri": "spotify:album:6HQvXy8EdBsmTx38Bp8KBZ"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0L5f9aJIaxQXTipZ7uQYiC",
+            "id": "0L5f9aJIaxQXTipZ7uQYiC",
+            "name": "Bheems Ceciroleo",
+            "type": "artist",
+            "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1KbI11CxclGVA2ctiYI2uc"
+        },
+        "href": "https://api.spotify.com/v1/albums/1KbI11CxclGVA2ctiYI2uc",
+        "id": "1KbI11CxclGVA2ctiYI2uc",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b02844dbfec0e189ce72437a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b02844dbfec0e189ce72437a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b02844dbfec0e189ce72437a",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "MAD",
+        "release_date": "2023-09-14",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1KbI11CxclGVA2ctiYI2uc"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+            },
+            "href": "https://api.spotify.com/v1/artists/2q1LRGJHpFxovU8Tz6OgRn",
+            "id": "2q1LRGJHpFxovU8Tz6OgRn",
+            "name": "Ravi Basrur",
+            "type": "artist",
+            "uri": "spotify:artist:2q1LRGJHpFxovU8Tz6OgRn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2yvOLf1gt6m9qPgzzqpxQx",
+            "id": "2yvOLf1gt6m9qPgzzqpxQx",
+            "name": "Krishna Kanth",
+            "type": "artist",
+            "uri": "spotify:artist:2yvOLf1gt6m9qPgzzqpxQx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
+            },
+            "href": "https://api.spotify.com/v1/artists/6CdktQ3MYk5JwJHq1OajZG",
+            "id": "6CdktQ3MYk5JwJHq1OajZG",
+            "name": "Sachin Basrur",
+            "type": "artist",
+            "uri": "spotify:artist:6CdktQ3MYk5JwJHq1OajZG"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1dQa7AMlPJiK9bMphaeslf"
+        },
+        "href": "https://api.spotify.com/v1/albums/1dQa7AMlPJiK9bMphaeslf",
+        "id": "1dQa7AMlPJiK9bMphaeslf",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735aee4b82ecc8c0b0358b7c56",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025aee4b82ecc8c0b0358b7c56",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515aee4b82ecc8c0b0358b7c56",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Vinaraa (From \"Salaar Cease Fire - Telugu\")",
+        "release_date": "2023-12-25",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1dQa7AMlPJiK9bMphaeslf"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+            },
+            "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
+            "id": "4zCH9qm4R2DADamUHMCa6O",
+            "name": "Anirudh Ravichander",
+            "type": "artist",
+            "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5lmcmry7Mynwt2GSCJHQcV"
+        },
+        "href": "https://api.spotify.com/v1/albums/5lmcmry7Mynwt2GSCJHQcV",
+        "id": "5lmcmry7Mynwt2GSCJHQcV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273663d1b86b1cc7b3f59ba0248",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02663d1b86b1cc7b3f59ba0248",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851663d1b86b1cc7b3f59ba0248",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Remo (Telugu) [Original Motion Picture Soundtrack]",
+        "release_date": "2016-11-09",
+        "release_date_precision": "day",
+        "total_tracks": 6,
+        "type": "album",
+        "uri": "spotify:album:5lmcmry7Mynwt2GSCJHQcV"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+            "id": "50iBEPSw6kQ8GQkumXz7XZ",
+            "name": "Hesham Abdul Wahab",
+            "type": "artist",
+            "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4bvzXEONisLfSgmuUOmUJZ"
+        },
+        "href": "https://api.spotify.com/v1/albums/4bvzXEONisLfSgmuUOmUJZ",
+        "id": "4bvzXEONisLfSgmuUOmUJZ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a6ee57ff4a70f520746c725f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a6ee57ff4a70f520746c725f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a6ee57ff4a70f520746c725f",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Hi Nanna Glimpse Music (TELUGU)",
+        "release_date": "2023-07-26",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4bvzXEONisLfSgmuUOmUJZ"
+      },
+      {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4Qb69bSgnNXB5WuWZg2A95"
+        },
+        "href": "https://api.spotify.com/v1/albums/4Qb69bSgnNXB5WuWZg2A95",
+        "id": "4Qb69bSgnNXB5WuWZg2A95",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a84f0321e296e0d3187a4e67",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a84f0321e296e0d3187a4e67",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a84f0321e296e0d3187a4e67",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "ANIMAL (Telugu)",
+        "release_date": "2023-11-24",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:4Qb69bSgnNXB5WuWZg2A95"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+            },
+            "href": "https://api.spotify.com/v1/artists/5FVBduYaeVBb6JIghza7v6",
+            "id": "5FVBduYaeVBb6JIghza7v6",
+            "name": "Santhosh Narayanan",
+            "type": "artist",
+            "uri": "spotify:artist:5FVBduYaeVBb6JIghza7v6"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+            },
+            "href": "https://api.spotify.com/v1/artists/4wxBWsFkyA2K1BMBFj91qt",
+            "id": "4wxBWsFkyA2K1BMBFj91qt",
+            "name": "Kasarla Shyam",
+            "type": "artist",
+            "uri": "spotify:artist:4wxBWsFkyA2K1BMBFj91qt"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+            },
+            "href": "https://api.spotify.com/v1/artists/3sZ8UlybnehTap4i1B3Wts",
+            "id": "3sZ8UlybnehTap4i1B3Wts",
+            "name": "ofRO",
+            "type": "artist",
+            "uri": "spotify:artist:3sZ8UlybnehTap4i1B3Wts"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4XOGfhln9erzM0PXUKMKqF"
+        },
+        "href": "https://api.spotify.com/v1/albums/4XOGfhln9erzM0PXUKMKqF",
+        "id": "4XOGfhln9erzM0PXUKMKqF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b6ebb0c49dd2d946575a1cd4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b6ebb0c49dd2d946575a1cd4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b6ebb0c49dd2d946575a1cd4",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Jigarthanda DoubleX - Telugu (Original Motion Picture Soundtrack)",
+        "release_date": "2023-11-14",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:4XOGfhln9erzM0PXUKMKqF"
+      },
+      {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2dItXypmeMVli42NpaHWbN"
+        },
+        "href": "https://api.spotify.com/v1/albums/2dItXypmeMVli42NpaHWbN",
+        "id": "2dItXypmeMVli42NpaHWbN",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b4c09a8299a84bacff24323f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b4c09a8299a84bacff24323f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b4c09a8299a84bacff24323f",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "#1 Trending Hits",
+        "release_date": "2020-12-18",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:2dItXypmeMVli42NpaHWbN"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2eSYr1g2WTZk41CbYyzRfT"
+            },
+            "href": "https://api.spotify.com/v1/artists/2eSYr1g2WTZk41CbYyzRfT",
+            "id": "2eSYr1g2WTZk41CbYyzRfT",
+            "name": "Todays Top Hits 2023",
+            "type": "artist",
+            "uri": "spotify:artist:2eSYr1g2WTZk41CbYyzRfT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WJ3N5ygjrSol5ZaFfTN5U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WJ3N5ygjrSol5ZaFfTN5U",
+            "id": "4WJ3N5ygjrSol5ZaFfTN5U",
+            "name": "Todays Top Hits Clean",
+            "type": "artist",
+            "uri": "spotify:artist:4WJ3N5ygjrSol5ZaFfTN5U"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ZE2rwdaE5rxCBjrj1M4no"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ZE2rwdaE5rxCBjrj1M4no",
+            "id": "5ZE2rwdaE5rxCBjrj1M4no",
+            "name": "Todays Top Hits Mix",
+            "type": "artist",
+            "uri": "spotify:artist:5ZE2rwdaE5rxCBjrj1M4no"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1avA4sH2xZCUEYfAtnck8V"
+        },
+        "href": "https://api.spotify.com/v1/albums/1avA4sH2xZCUEYfAtnck8V",
+        "id": "1avA4sH2xZCUEYfAtnck8V",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cfce9933127098cad6e35600",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cfce9933127098cad6e35600",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cfce9933127098cad6e35600",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Top Hits Playlist",
+        "release_date": "2023-05-11",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:1avA4sH2xZCUEYfAtnck8V"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1najORT7ZKHSbaGiAfW8ct"
+            },
+            "href": "https://api.spotify.com/v1/artists/1najORT7ZKHSbaGiAfW8ct",
+            "id": "1najORT7ZKHSbaGiAfW8ct",
+            "name": "2023 Hit Songs Music Mix",
+            "type": "artist",
+            "uri": "spotify:artist:1najORT7ZKHSbaGiAfW8ct"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Rt4qtMRPzdBLU2cU1Q5aO"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Rt4qtMRPzdBLU2cU1Q5aO",
+            "id": "3Rt4qtMRPzdBLU2cU1Q5aO",
+            "name": "2023 Hit Songs Playlist",
+            "type": "artist",
+            "uri": "spotify:artist:3Rt4qtMRPzdBLU2cU1Q5aO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4OxfghTTEa7wIa1GcXtWVD"
+            },
+            "href": "https://api.spotify.com/v1/artists/4OxfghTTEa7wIa1GcXtWVD",
+            "id": "4OxfghTTEa7wIa1GcXtWVD",
+            "name": "Top Songs Of 2023",
+            "type": "artist",
+            "uri": "spotify:artist:4OxfghTTEa7wIa1GcXtWVD"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3fZ1aGbIF6Mtj6n3HYBqZJ"
+        },
+        "href": "https://api.spotify.com/v1/albums/3fZ1aGbIF6Mtj6n3HYBqZJ",
+        "id": "3fZ1aGbIF6Mtj6n3HYBqZJ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27307e39c0d27f9c7e304309607",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0207e39c0d27f9c7e304309607",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485107e39c0d27f9c7e304309607",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "New Hit Songs Of 2023 Playlist Instrumentals",
+        "release_date": "2023-03-18",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:3fZ1aGbIF6Mtj6n3HYBqZJ"
+      },
+      {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1Q3wB7xdIqUBXuuDVxaQWs"
+        },
+        "href": "https://api.spotify.com/v1/albums/1Q3wB7xdIqUBXuuDVxaQWs",
+        "id": "1Q3wB7xdIqUBXuuDVxaQWs",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a4207bdcdd0b6985b75b0b12",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a4207bdcdd0b6985b75b0b12",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a4207bdcdd0b6985b75b0b12",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Trending 2023",
+        "release_date": "2022-11-02",
+        "release_date_precision": "day",
+        "total_tracks": 29,
+        "type": "album",
+        "uri": "spotify:album:1Q3wB7xdIqUBXuuDVxaQWs"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1tXz6gE4QmVCM9GOqIHkc9"
+            },
+            "href": "https://api.spotify.com/v1/artists/1tXz6gE4QmVCM9GOqIHkc9",
+            "id": "1tXz6gE4QmVCM9GOqIHkc9",
+            "name": "Dj Somesh Srikakulam",
+            "type": "artist",
+            "uri": "spotify:artist:1tXz6gE4QmVCM9GOqIHkc9"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Yj5iD28GuhTs962Gf378B"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Yj5iD28GuhTs962Gf378B",
+            "id": "3Yj5iD28GuhTs962Gf378B",
+            "name": "Dj Somesh Sripuram",
+            "type": "artist",
+            "uri": "spotify:artist:3Yj5iD28GuhTs962Gf378B"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/14ayUjJZKZkAnExQ29KHJi"
+            },
+            "href": "https://api.spotify.com/v1/artists/14ayUjJZKZkAnExQ29KHJi",
+            "id": "14ayUjJZKZkAnExQ29KHJi",
+            "name": "Relare Rela Suresh",
+            "type": "artist",
+            "uri": "spotify:artist:14ayUjJZKZkAnExQ29KHJi"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6COPhn67EPTlTLV65UvSz8"
+        },
+        "href": "https://api.spotify.com/v1/albums/6COPhn67EPTlTLV65UvSz8",
+        "id": "6COPhn67EPTlTLV65UvSz8",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fc936b78424b85b58ca1bfc0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fc936b78424b85b58ca1bfc0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fc936b78424b85b58ca1bfc0",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Lage Lage Lachimidevi",
+        "release_date": "2023-11-02",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6COPhn67EPTlTLV65UvSz8"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0268OztCe1Z7FpnrxVCJxc"
+            },
+            "href": "https://api.spotify.com/v1/artists/0268OztCe1Z7FpnrxVCJxc",
+            "id": "0268OztCe1Z7FpnrxVCJxc",
+            "name": "New Releases",
+            "type": "artist",
+            "uri": "spotify:artist:0268OztCe1Z7FpnrxVCJxc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7d30sGJmVZNdTMScWAslae"
+            },
+            "href": "https://api.spotify.com/v1/artists/7d30sGJmVZNdTMScWAslae",
+            "id": "7d30sGJmVZNdTMScWAslae",
+            "name": "New Songs",
+            "type": "artist",
+            "uri": "spotify:artist:7d30sGJmVZNdTMScWAslae"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2fAPnSN3pV3f5m0opfUeuG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2fAPnSN3pV3f5m0opfUeuG",
+            "id": "2fAPnSN3pV3f5m0opfUeuG",
+            "name": "New Beats",
+            "type": "artist",
+            "uri": "spotify:artist:2fAPnSN3pV3f5m0opfUeuG"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4urlKJiM6geczkEJrVA0uT"
+        },
+        "href": "https://api.spotify.com/v1/albums/4urlKJiM6geczkEJrVA0uT",
+        "id": "4urlKJiM6geczkEJrVA0uT",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739889c6e4a0925c1935bd787c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029889c6e4a0925c1935bd787c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519889c6e4a0925c1935bd787c",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "2023 New Music",
+        "release_date": "2023-04-15",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4urlKJiM6geczkEJrVA0uT"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7qgJkqICsYsUtU8a5SwG9b"
+            },
+            "href": "https://api.spotify.com/v1/artists/7qgJkqICsYsUtU8a5SwG9b",
+            "id": "7qgJkqICsYsUtU8a5SwG9b",
+            "name": "Top Hits 2023",
+            "type": "artist",
+            "uri": "spotify:artist:7qgJkqICsYsUtU8a5SwG9b"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50KjEpBOQcIEWa0sOi0sji"
+            },
+            "href": "https://api.spotify.com/v1/artists/50KjEpBOQcIEWa0sOi0sji",
+            "id": "50KjEpBOQcIEWa0sOi0sji",
+            "name": "Best Songs Of 2023",
+            "type": "artist",
+            "uri": "spotify:artist:50KjEpBOQcIEWa0sOi0sji"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WIRa3FZcayVSVSPOcmVti"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WIRa3FZcayVSVSPOcmVti",
+            "id": "4WIRa3FZcayVSVSPOcmVti",
+            "name": "2023 Playlist",
+            "type": "artist",
+            "uri": "spotify:artist:4WIRa3FZcayVSVSPOcmVti"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/48FFfVQB9fqaUWJvy7gdfX"
+        },
+        "href": "https://api.spotify.com/v1/albums/48FFfVQB9fqaUWJvy7gdfX",
+        "id": "48FFfVQB9fqaUWJvy7gdfX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27398407446260f5be9f25eacb7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0298407446260f5be9f25eacb7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485198407446260f5be9f25eacb7",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Top Hits 2023",
+        "release_date": "2023-06-17",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:48FFfVQB9fqaUWJvy7gdfX"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+            },
+            "href": "https://api.spotify.com/v1/artists/4A2XSc4OJjuPY4l6NjnrDj",
+            "id": "4A2XSc4OJjuPY4l6NjnrDj",
+            "name": "Ram Miriyala",
+            "type": "artist",
+            "uri": "spotify:artist:4A2XSc4OJjuPY4l6NjnrDj"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2B09F9z96zFnqn14RYlaUy"
+        },
+        "href": "https://api.spotify.com/v1/albums/2B09F9z96zFnqn14RYlaUy",
+        "id": "2B09F9z96zFnqn14RYlaUy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cc3f14f6a74e935fb5e61d5f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cc3f14f6a74e935fb5e61d5f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cc3f14f6a74e935fb5e61d5f",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "DJ Tillu",
+        "release_date": "2022-01-06",
+        "release_date_precision": "day",
+        "total_tracks": 4,
+        "type": "album",
+        "uri": "spotify:album:2B09F9z96zFnqn14RYlaUy"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PjvC3vaZ6wh5FK6PZ4Dd5",
+            "id": "3PjvC3vaZ6wh5FK6PZ4Dd5",
+            "name": "B. Ajaneesh Loknath",
+            "type": "artist",
+            "uri": "spotify:artist:3PjvC3vaZ6wh5FK6PZ4Dd5"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7vQjNbwpLh0RNmFihCMiVa"
+        },
+        "href": "https://api.spotify.com/v1/albums/7vQjNbwpLh0RNmFihCMiVa",
+        "id": "7vQjNbwpLh0RNmFihCMiVa",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b9bd52d483fd372dda233b10",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b9bd52d483fd372dda233b10",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b9bd52d483fd372dda233b10",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Virupaksha (Original Motion Picture Soundtrack)",
+        "release_date": "2023-04-22",
+        "release_date_precision": "day",
+        "total_tracks": 3,
+        "type": "album",
+        "uri": "spotify:album:7vQjNbwpLh0RNmFihCMiVa"
+      },
+      {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7E0AYFIpvAZayLQCe4kMOi"
+        },
+        "href": "https://api.spotify.com/v1/albums/7E0AYFIpvAZayLQCe4kMOi",
+        "id": "7E0AYFIpvAZayLQCe4kMOi",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273135a66effaa0e4c0a8153b93",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02135a66effaa0e4c0a8153b93",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851135a66effaa0e4c0a8153b93",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Trending: Summer 2023",
+        "release_date": "2023-07-28",
+        "release_date_precision": "day",
+        "total_tracks": 32,
+        "type": "album",
+        "uri": "spotify:album:7E0AYFIpvAZayLQCe4kMOi"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3lgDXKavd9zCXvaEEAYpib"
+            },
+            "href": "https://api.spotify.com/v1/artists/3lgDXKavd9zCXvaEEAYpib",
+            "id": "3lgDXKavd9zCXvaEEAYpib",
+            "name": "Swathi Reddy UK",
+            "type": "artist",
+            "uri": "spotify:artist:3lgDXKavd9zCXvaEEAYpib"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0L5f9aJIaxQXTipZ7uQYiC",
+            "id": "0L5f9aJIaxQXTipZ7uQYiC",
+            "name": "Bheems Ceciroleo",
+            "type": "artist",
+            "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0RkwdM6umaDKbp7QigXUym"
+        },
+        "href": "https://api.spotify.com/v1/albums/0RkwdM6umaDKbp7QigXUym",
+        "id": "0RkwdM6umaDKbp7QigXUym",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5a2805ae8e972135e89a152",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5a2805ae8e972135e89a152",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a5a2805ae8e972135e89a152",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Swathi Reddy",
+        "release_date": "2023-10-07",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0RkwdM6umaDKbp7QigXUym"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+            },
+            "href": "https://api.spotify.com/v1/artists/0L5f9aJIaxQXTipZ7uQYiC",
+            "id": "0L5f9aJIaxQXTipZ7uQYiC",
+            "name": "Bheems Ceciroleo",
+            "type": "artist",
+            "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4nEOXTUhpzBNaE2EeSZXs2"
+        },
+        "href": "https://api.spotify.com/v1/albums/4nEOXTUhpzBNaE2EeSZXs2",
+        "id": "4nEOXTUhpzBNaE2EeSZXs2",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273aa2f72f010c9ad6014593ef9",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02aa2f72f010c9ad6014593ef9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851aa2f72f010c9ad6014593ef9",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Balagam",
+        "release_date": "2023-03-04",
+        "release_date_precision": "day",
+        "total_tracks": 6,
+        "type": "album",
+        "uri": "spotify:album:4nEOXTUhpzBNaE2EeSZXs2"
+      },
+      {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1kviuKCn7SaRHnUlaqfbfV"
+        },
+        "href": "https://api.spotify.com/v1/albums/1kviuKCn7SaRHnUlaqfbfV",
+        "id": "1kviuKCn7SaRHnUlaqfbfV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c9c0989360c9d206e2706cb1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c9c0989360c9d206e2706cb1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c9c0989360c9d206e2706cb1",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Top Trending Hits Vol.5",
+        "release_date": "2022-03-18",
+        "release_date_precision": "day",
+        "total_tracks": 50,
+        "type": "album",
+        "uri": "spotify:album:1kviuKCn7SaRHnUlaqfbfV"
+      },
+      {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3Fic5w06aysaADgddCSvgV"
+        },
+        "href": "https://api.spotify.com/v1/albums/3Fic5w06aysaADgddCSvgV",
+        "id": "3Fic5w06aysaADgddCSvgV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737c61f3fa3ccdeec8460ea4da",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027c61f3fa3ccdeec8460ea4da",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517c61f3fa3ccdeec8460ea4da",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Top Trending Songs",
+        "release_date": "2023-07-21",
+        "release_date_precision": "day",
+        "total_tracks": 26,
+        "type": "album",
+        "uri": "spotify:album:3Fic5w06aysaADgddCSvgV"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7qgJkqICsYsUtU8a5SwG9b"
+            },
+            "href": "https://api.spotify.com/v1/artists/7qgJkqICsYsUtU8a5SwG9b",
+            "id": "7qgJkqICsYsUtU8a5SwG9b",
+            "name": "Top Hits 2023",
+            "type": "artist",
+            "uri": "spotify:artist:7qgJkqICsYsUtU8a5SwG9b"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50KjEpBOQcIEWa0sOi0sji"
+            },
+            "href": "https://api.spotify.com/v1/artists/50KjEpBOQcIEWa0sOi0sji",
+            "id": "50KjEpBOQcIEWa0sOi0sji",
+            "name": "Best Songs Of 2023",
+            "type": "artist",
+            "uri": "spotify:artist:50KjEpBOQcIEWa0sOi0sji"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4WIRa3FZcayVSVSPOcmVti"
+            },
+            "href": "https://api.spotify.com/v1/artists/4WIRa3FZcayVSVSPOcmVti",
+            "id": "4WIRa3FZcayVSVSPOcmVti",
+            "name": "2023 Playlist",
+            "type": "artist",
+            "uri": "spotify:artist:4WIRa3FZcayVSVSPOcmVti"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2Ad0WTuuxBJB2BaLdfUAvc"
+        },
+        "href": "https://api.spotify.com/v1/albums/2Ad0WTuuxBJB2BaLdfUAvc",
+        "id": "2Ad0WTuuxBJB2BaLdfUAvc",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736d809dceeec4799f4e2c64db",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026d809dceeec4799f4e2c64db",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516d809dceeec4799f4e2c64db",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Top Hits 2023 Music Playlist",
+        "release_date": "2023-12-03",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:2Ad0WTuuxBJB2BaLdfUAvc"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/13LYSQUY5EoYGVs1hSvV27"
+            },
+            "href": "https://api.spotify.com/v1/artists/13LYSQUY5EoYGVs1hSvV27",
+            "id": "13LYSQUY5EoYGVs1hSvV27",
+            "name": "Gajwel Venu",
+            "type": "artist",
+            "uri": "spotify:artist:13LYSQUY5EoYGVs1hSvV27"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4d9tHXsAc0g2gnOJBt33pr"
+        },
+        "href": "https://api.spotify.com/v1/albums/4d9tHXsAc0g2gnOJBt33pr",
+        "id": "4d9tHXsAc0g2gnOJBt33pr",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fda548db673b0777a247a59f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fda548db673b0777a247a59f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fda548db673b0777a247a59f",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Latest Folk Hits 2020",
+        "release_date": "2020-12-23",
+        "release_date_precision": "day",
+        "total_tracks": 6,
+        "type": "album",
+        "uri": "spotify:album:4d9tHXsAc0g2gnOJBt33pr"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+            },
+            "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
+            "id": "4zCH9qm4R2DADamUHMCa6O",
+            "name": "Anirudh Ravichander",
+            "type": "artist",
+            "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+            },
+            "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
+            "id": "00sCATpEvwH48ays7PlQFU",
+            "name": "Jonita Gandhi",
+            "type": "artist",
+            "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3n3TbDhO1QD8FayOcyRssB"
+        },
+        "href": "https://api.spotify.com/v1/albums/3n3TbDhO1QD8FayOcyRssB",
+        "id": "3n3TbDhO1QD8FayOcyRssB",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f597fb18c650bce3e82d41e2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f597fb18c650bce3e82d41e2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f597fb18c650bce3e82d41e2",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Halamithi Habibo (From \"Beast\")",
+        "release_date": "2022-04-05",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3n3TbDhO1QD8FayOcyRssB"
+      }
+    ],
+    "limit": 50,
+    "next": "https://api.spotify.com/v1/search?query=telugusongs+2023+india&type=album&market=IN&offset=60&limit=50",
+    "offset": 10,
+    "previous": "https://api.spotify.com/v1/search?query=telugusongs+2023+india&type=album&market=IN&offset=0&limit=50",
+    "total": 800
+  }
+}

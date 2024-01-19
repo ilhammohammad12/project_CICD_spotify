@@ -27,8 +27,9 @@ def generate_token():
         filepath = 'access_token.json'
         with open(filepath, "w") as json_file:
             json.dump(access_token,json_file, indent=2)
-            print("completed handling request")
-            print(access_token)
+            print("completed handling saved the request")
+            
     else:
         print("Error:", response.status_code, response.text)
     
+generate_token()
