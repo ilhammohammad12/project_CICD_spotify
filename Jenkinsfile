@@ -4,7 +4,7 @@ pipeline {
         SSH_CREDENTIALS_ID = 'my-ssh-key'
         REMOTE_SERVER = 'root@192.168.1.200'
         DOCKER_IMAGE = "oilham/jenkins_spotify:latest"
-        DOCKER_CREDENTIALS_ID = "dockerhub-credentials"  // Add your Jenkins credentials ID here
+        DOCKER_CREDENTIALS_ID = "DOCKER_CREDENTIALS_ID"  // Add your Jenkins credentials ID here
     }
     stages {
         stage('Checkout SCM') {
