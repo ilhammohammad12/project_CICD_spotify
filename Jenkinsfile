@@ -16,8 +16,8 @@ pipeline {
             steps {
                 sshagent([SSH_CREDENTIALS_ID]) {
                     sh """
-                        scp -o StrictHostKeyChecking=no Dockerfile ${REMOTE_SERVER}:/tmp/
-                        scp -o StrictHostKeyChecking=no -r * ${REMOTE_SERVER}:/tmp/
+                        scp -o StrictHostKeyChecking=no Dockerfile ${REMOTE_SERVER}:/tmp/app
+                        scp -o StrictHostKeyChecking=no -r * ${REMOTE_SERVER}:/tmp/app
                     """
                 }
             }
@@ -26,7 +26,7 @@ pipeline {
             steps {
                 sshagent([SSH_CREDENTIALS_ID]) {
                     sh """
-                        ssh -o StrictHostKeyChecking=no ${REMOTE_SERVER} 'cd /tmp && docker build -t $DOCKER_IMAGE .'
+                        ssh -o StrictHostKeyChecking=no ${REMOTE_SERVER} 'cd /tmp/app && docker build -t $DOCKER_IMAGE .'
                     """
                 }
             }
@@ -38,7 +38,7 @@ pipeline {
                     withCredentials([usernamePassword(credentialsId: DOCKER_CREDENTIALS_ID, usernameVariable: 'DOCKER_USER', passwordVariable: 'DOCKER_PASS')]) {
                         sh """
                             ssh -o StrictHostKeyChecking=no ${REMOTE_SERVER} '
-                                cd /tmp &&
+                                cd /tmp/app &&
                                 echo $DOCKER_PASS | docker login -u $DOCKER_USER --password-stdin &&
                                 docker push $DOCKER_IMAGE
                             '

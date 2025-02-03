@@ -1,4 +1,4 @@
-From Python:3.9-slim
+From python
 Workdir /app
 COPY . . 
 Run pip install -r requirements.txt
