@@ -1,8 +1,8 @@
 pipeline{
     agent any
     environment {
-        DOCKER_IMAGE: docker push oilham/jenkins_spotify:latest
-        DOCKER_CREDTENTIALS_ID:
+        DOCKER_IMAGE = 'docker push oilham/jenkins_spotify:latest'
+        DOCKER_CREDTENTIALS_ID: 'DOCKER_CREDTENTIALS_ID'
     }
     stages {
         stage('checkout scm'){
@@ -12,7 +12,7 @@ pipeline{
 
         stage('Build the docker'){
             steps{
-            sh 'docker build -t $(DOCKER_IMAGE) .'
+            sh 'docker build -t $DOCKER_IMAGE .'
             }
         }
         stage( 'push the docker'){
