@@ -12,12 +12,21 @@ pipeline {
                 checkout scm
             }
         }
-
+        stage('Copy Required Files to Remote Server') {
+            steps {
+                sshagent([SSH_CREDENTIALS_ID]) {
+                    sh """
+                        scp -o StrictHostKeyChecking=no Dockerfile ${REMOTE_SERVER}:/tmp/
+                        scp -o StrictHostKeyChecking=no -r * ${REMOTE_SERVER}:/tmp/
+                    """
+                }
+            }
+        }
         stage('Build the Docker Image') {
             steps {
                 sshagent([SSH_CREDENTIALS_ID]) {
                     sh """
-                        ssh -o StrictHostKeyChecking=no ${REMOTE_SERVER} 'docker build -t $DOCKER_IMAGE .'
+                        ssh -o StrictHostKeyChecking=no ${REMOTE_SERVER} 'cd /tmp && docker build -t $DOCKER_IMAGE .'
                     """
                 }
             }
@@ -29,7 +38,8 @@ pipeline {
                     withCredentials([usernamePassword(credentialsId: DOCKER_CREDENTIALS_ID, usernameVariable: 'DOCKER_USER', passwordVariable: 'DOCKER_PASS')]) {
                         sh """
                             ssh -o StrictHostKeyChecking=no ${REMOTE_SERVER} '
-                                echo $DOCKER_PASS | docker login -u $DOCKER_USER --password-stdin
+                                cd /tmp &&
+                                echo $DOCKER_PASS | docker login -u $DOCKER_USER --password-stdin &&
                                 docker push $DOCKER_IMAGE
                             '
                         """
