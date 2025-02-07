@@ -2,7 +2,7 @@ from django.shortcuts import render
 import json
 
 def track_list(request):
-    with open('C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/output_jsons/songdetails_final.json') as f:
+    with open('/app/output_jsons/songdetails_final.json') as f:
         data = json.load(f)
         artists = []
 
@@ -17,7 +17,7 @@ def track_list(request):
     return render(request, 'track_list.html', {'artists': artists})
 
 def artistic_top_tracks(request):
-    with open('C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/output_jsons/all_songs_json.json') as file:
+    with open('/app/output_jsons/all_songs_json.json') as file:
         datas = json.load(file)
         arsts = []
         for track in datas['tracks']:
@@ -37,7 +37,7 @@ def artistic_top_tracks(request):
     return render(request, 'arts.html', {'artists':arsts})
 
 """def search_albums(request):
-    with open('C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/spotify/search_data.json', 'r') as searchdata:
+    with open(' spotify/spotify/search_data.json', 'r') as searchdata:
         search_album_data = json.load(searchdata)
         
     return render(request,'search_data.html',{'playlist_data':search_album_data})
@@ -45,7 +45,7 @@ def artistic_top_tracks(request):
 from django.shortcuts import render
 
 def playlist_detail(request):
-    with open('C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/output_jsons/search_data.json', 'r') as outputfile:
+    with open('/app/output_jsons/search_data.json', 'r') as outputfile:
         data = json.load(outputfile)
     
     album_list_info = []
@@ -70,7 +70,7 @@ def playlist_detail(request):
     return render(request, 'playlist_detail.html', {'playlist_data': album_list_info})
 
 def all_album_tracks(request):
-    with open('C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/output_jsons/album_all_data_final.json','r') as all:
+    with open('/app/output_jsons/album_all_data_final.json','r') as all:
         album_data = json.load(all)
     album_details = []
     image_details = []
