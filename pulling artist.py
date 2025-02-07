@@ -214,8 +214,8 @@ def allsongs(json_data,access_token,folder_path):
         print(f"An error occurred while writing to {output_file}: {e}")
 
 def generate_token():
-    if os.path.exists('C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/access_token.json'):
-        os.remove('C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/access_token.json')
+    if os.path.exists('/opt/test/project_CICD_spotify/access_token.json'):
+        os.remove('/opt/test/project_CICD_spotify/access_token.json')
         print('accesstoken file is deleted')
     else:
         print("file not exisits")
@@ -242,7 +242,7 @@ def generate_token():
         print("status sucess",response.status_code)
         access_token = response.json().get("access_token")
         print("access token is generated")
-        filepath = 'C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/access_token.json'
+        filepath = '/opt/test/project_CICD_spotify/access_token.json'
         with open(filepath, "w") as json_file:
             json.dump(access_token,json_file, indent=2)
             print("completed handling token generation saved the request")
@@ -256,12 +256,12 @@ def generate_token():
 def generativedata():
     # this is to check if the output file is present or not, if present the function will remove it
     print("starting to check if the any files are present")
-    folder_path = 'C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/output_jsons'
+    folder_path = '/opt/test/project_CICD_spotify/output_jsons'
     delete_existing_json_file(folder_path)
     print("sucessfully finished the job")
     # this step start to generate the access token
     print('sending client request to generate tokens')
-    with open('C:/Users/Mohammed Ilham/Documents/DataAnalysis project/Project spotify/access_token.json', 'r') as token:
+    with open('/opt/test/project_CICD_spotify/access_token.json', 'r') as token:
         access_tokens = json.load(token)
     # this steps start the first job to get the search results
     print("starting handling search request")

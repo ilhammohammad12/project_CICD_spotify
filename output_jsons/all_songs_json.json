@@ -2,538 +2,324 @@
   "tracks": [
     {
       "album": {
-        "album_type": "album",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+              "spotify": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
             },
-            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-            "id": "1wRPtKGflJrBx9BmLsSwlU",
-            "name": "Pritam",
+            "href": "https://api.spotify.com/v1/artists/6LWyVEIBnx7MoRBhQxu9om",
+            "id": "6LWyVEIBnx7MoRBhQxu9om",
+            "name": "Anurag Kulkarni",
             "type": "artist",
-            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+            "uri": "spotify:artist:6LWyVEIBnx7MoRBhQxu9om"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+              "spotify": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
             },
-            "href": "https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx",
-            "id": "2fMqTqiTxUDlmcOEPaQSsx",
-            "name": "Amitabh Bhattacharya",
+            "href": "https://api.spotify.com/v1/artists/6fvMFyB3RMPEyKyLJAS79c",
+            "id": "6fvMFyB3RMPEyKyLJAS79c",
+            "name": "Sithara Krishnakumar",
             "type": "artist",
-            "uri": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx"
+            "uri": "spotify:artist:6fvMFyB3RMPEyKyLJAS79c"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+            "id": "50iBEPSw6kQ8GQkumXz7XZ",
+            "name": "Hesham Abdul Wahab",
+            "type": "artist",
+            "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/0SB9pkSJOzevi6IpIBJbwy"
+          "spotify": "https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG"
         },
-        "href": "https://api.spotify.com/v1/albums/0SB9pkSJOzevi6IpIBJbwy",
-        "id": "0SB9pkSJOzevi6IpIBJbwy",
+        "href": "https://api.spotify.com/v1/albums/6D13wnr8nPxBHLalTHPrqG",
+        "id": "6D13wnr8nPxBHLalTHPrqG",
         "images": [
           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ea5a7ae393a3f8dfe6d53bb5",
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2736cb33f67a02741e93a5da333",
             "width": 640
           },
           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ea5a7ae393a3f8dfe6d53bb5",
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e026cb33f67a02741e93a5da333",
             "width": 300
           },
           {
+            "url": "https://i.scdn.co/image/ab67616d00004851ea5a7ae393a3f8dfe6d53bb5",
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048516cb33f67a02741e93a5da333",
             "width": 64
           }
         ],
         "is_playable": true,
-        "name": "Rocky Aur Rani Kii Prem Kahaani",
-        "release_date": "2023-08-14",
+        "name": "Samayama (From \"Hi Nanna\")",
+        "release_date": "2023-09-16",
         "release_date_precision": "day",
-        "total_tracks": 14,
+        "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:0SB9pkSJOzevi6IpIBJbwy"
+        "uri": "spotify:album:6D13wnr8nPxBHLalTHPrqG"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+            "spotify": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
           },
-          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-          "id": "1wRPtKGflJrBx9BmLsSwlU",
-          "name": "Pritam",
+          "href": "https://api.spotify.com/v1/artists/6LWyVEIBnx7MoRBhQxu9om",
+          "id": "6LWyVEIBnx7MoRBhQxu9om",
+          "name": "Anurag Kulkarni",
           "type": "artist",
-          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+          "uri": "spotify:artist:6LWyVEIBnx7MoRBhQxu9om"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            "spotify": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
           },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
+          "href": "https://api.spotify.com/v1/artists/6fvMFyB3RMPEyKyLJAS79c",
+          "id": "6fvMFyB3RMPEyKyLJAS79c",
+          "name": "Sithara Krishnakumar",
           "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          "uri": "spotify:artist:6fvMFyB3RMPEyKyLJAS79c"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+            "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
           },
-          "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
-          "id": "00sCATpEvwH48ays7PlQFU",
-          "name": "Jonita Gandhi",
+          "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+          "id": "50iBEPSw6kQ8GQkumXz7XZ",
+          "name": "Hesham Abdul Wahab",
           "type": "artist",
-          "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK"
-          },
-          "href": "https://api.spotify.com/v1/artists/0lMa3YTHqQnDDTBaxAV7LK",
-          "id": "0lMa3YTHqQnDDTBaxAV7LK",
-          "name": "Ranveer Singh",
-          "type": "artist",
-          "uri": "spotify:artist:0lMa3YTHqQnDDTBaxAV7LK"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-          },
-          "href": "https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx",
-          "id": "2fMqTqiTxUDlmcOEPaQSsx",
-          "name": "Amitabh Bhattacharya",
-          "type": "artist",
-          "uri": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx"
+          "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 213611,
+      "duration_ms": 204181,
       "explicit": false,
       "external_ids": {
-        "isrc": "INH102309955"
+        "isrc": "INS182302640"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/7iekl4P95GuphG8x8a3cNT"
+        "spotify": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
       },
-      "href": "https://api.spotify.com/v1/tracks/7iekl4P95GuphG8x8a3cNT",
-      "id": "7iekl4P95GuphG8x8a3cNT",
+      "href": "https://api.spotify.com/v1/tracks/0hujsbFzpm9RjOs4mnVclo",
+      "id": "0hujsbFzpm9RjOs4mnVclo",
       "is_local": false,
       "is_playable": true,
-      "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
-      "popularity": 74,
-      "preview_url": "https://p.scdn.co/mp3-preview/ff3a54677840a85c4f8ceb66bc248b9915bf5430?cid=f4f8554077e84dc8a5fd740ea419bff8",
-      "track_number": 2,
+      "name": "Samayama (From \"Hi Nanna\")",
+      "popularity": 63,
+      "preview_url": null,
+      "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:7iekl4P95GuphG8x8a3cNT"
+      "uri": "spotify:track:0hujsbFzpm9RjOs4mnVclo"
     },
     {
       "album": {
-        "album_type": "album",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+              "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
             },
-            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-            "id": "1wRPtKGflJrBx9BmLsSwlU",
-            "name": "Pritam",
+            "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+            "id": "50iBEPSw6kQ8GQkumXz7XZ",
+            "name": "Hesham Abdul Wahab",
             "type": "artist",
-            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+            "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+              "spotify": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
             },
-            "href": "https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx",
-            "id": "2fMqTqiTxUDlmcOEPaQSsx",
-            "name": "Amitabh Bhattacharya",
+            "href": "https://api.spotify.com/v1/artists/0MC4IRJmruzbwPInw7vmL7",
+            "id": "0MC4IRJmruzbwPInw7vmL7",
+            "name": "Madhan Karky",
             "type": "artist",
-            "uri": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx"
+            "uri": "spotify:artist:0MC4IRJmruzbwPInw7vmL7"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79"
+          "spotify": "https://open.spotify.com/album/16KiJHyPW6BcOm46xulMwd"
         },
-        "href": "https://api.spotify.com/v1/albums/4kIPlpwEZBK9JaI9pZHe79",
-        "id": "4kIPlpwEZBK9JaI9pZHe79",
+        "href": "https://api.spotify.com/v1/albums/16KiJHyPW6BcOm46xulMwd",
+        "id": "16KiJHyPW6BcOm46xulMwd",
         "images": [
           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a268b12b8c802995d55542aa",
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273913edcaccb2268647d0c495b",
             "width": 640
           },
           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a268b12b8c802995d55542aa",
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02913edcaccb2268647d0c495b",
             "width": 300
           },
           {
+            "url": "https://i.scdn.co/image/ab67616d00004851a268b12b8c802995d55542aa",
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851913edcaccb2268647d0c495b",
             "width": 64
           }
         ],
         "is_playable": true,
-        "name": "Brahmastra (Original Motion Picture Soundtrack)",
-        "release_date": "2022-10-06",
+        "name": "En Rojaa Neeye (From \"Kushi\") (Tamil)",
+        "release_date": "2023-05-09",
         "release_date_precision": "day",
-        "total_tracks": 9,
+        "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:4kIPlpwEZBK9JaI9pZHe79"
+        "uri": "spotify:album:16KiJHyPW6BcOm46xulMwd"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+            "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
           },
-          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-          "id": "1wRPtKGflJrBx9BmLsSwlU",
-          "name": "Pritam",
+          "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+          "id": "50iBEPSw6kQ8GQkumXz7XZ",
+          "name": "Hesham Abdul Wahab",
           "type": "artist",
-          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-          },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
-          "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-          },
-          "href": "https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx",
-          "id": "2fMqTqiTxUDlmcOEPaQSsx",
-          "name": "Amitabh Bhattacharya",
-          "type": "artist",
-          "uri": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-          },
-          "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
-          "id": "00sCATpEvwH48ays7PlQFU",
-          "name": "Jonita Gandhi",
-          "type": "artist",
-          "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
+          "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 279107,
+      "duration_ms": 243947,
       "explicit": false,
       "external_ids": {
-        "isrc": "INS172219983"
+        "isrc": "INH102306926"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/4SqPZorSDuUtvdJwVGeZRC"
+        "spotify": "https://open.spotify.com/track/3lH2RPkpaDvj4aKEeTV6rA"
       },
-      "href": "https://api.spotify.com/v1/tracks/4SqPZorSDuUtvdJwVGeZRC",
-      "id": "4SqPZorSDuUtvdJwVGeZRC",
+      "href": "https://api.spotify.com/v1/tracks/3lH2RPkpaDvj4aKEeTV6rA",
+      "id": "3lH2RPkpaDvj4aKEeTV6rA",
       "is_local": false,
       "is_playable": true,
-      "name": "Deva Deva",
+      "name": "En Rojaa Neeye",
+      "popularity": 54,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3lH2RPkpaDvj4aKEeTV6rA"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+            "id": "50iBEPSw6kQ8GQkumXz7XZ",
+            "name": "Hesham Abdul Wahab",
+            "type": "artist",
+            "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO"
+            },
+            "href": "https://api.spotify.com/v1/artists/1JBngqswTsCSvZ9eFVjnlO",
+            "id": "1JBngqswTsCSvZ9eFVjnlO",
+            "name": "Uthara Unnikrishnan",
+            "type": "artist",
+            "uri": "spotify:artist:1JBngqswTsCSvZ9eFVjnlO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tJEEeKyEuYWQLzBz0a8p1",
+            "id": "4tJEEeKyEuYWQLzBz0a8p1",
+            "name": "Vignesh Srikanth",
+            "type": "artist",
+            "uri": "spotify:artist:4tJEEeKyEuYWQLzBz0a8p1"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/58o7eVrdHYI36QxG7FpDQu"
+        },
+        "href": "https://api.spotify.com/v1/albums/58o7eVrdHYI36QxG7FpDQu",
+        "id": "58o7eVrdHYI36QxG7FpDQu",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cf81dd85b15cb94dfba1f52c",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cf81dd85b15cb94dfba1f52c",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cf81dd85b15cb94dfba1f52c",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Vaa Kannamma (From \"Once More\")",
+        "release_date": "2025-01-10",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:58o7eVrdHYI36QxG7FpDQu"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+          "id": "50iBEPSw6kQ8GQkumXz7XZ",
+          "name": "Hesham Abdul Wahab",
+          "type": "artist",
+          "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1JBngqswTsCSvZ9eFVjnlO",
+          "id": "1JBngqswTsCSvZ9eFVjnlO",
+          "name": "Uthara Unnikrishnan",
+          "type": "artist",
+          "uri": "spotify:artist:1JBngqswTsCSvZ9eFVjnlO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tJEEeKyEuYWQLzBz0a8p1",
+          "id": "4tJEEeKyEuYWQLzBz0a8p1",
+          "name": "Vignesh Srikanth",
+          "type": "artist",
+          "uri": "spotify:artist:4tJEEeKyEuYWQLzBz0a8p1"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 284307,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INT202505169"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3YH8zD0ycqxKtk6xTyW4w3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3YH8zD0ycqxKtk6xTyW4w3",
+      "id": "3YH8zD0ycqxKtk6xTyW4w3",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Vaa Kannamma - From \"Once More\"",
       "popularity": 62,
-      "preview_url": "https://p.scdn.co/mp3-preview/0238ffb0511435c15e33b3306f38ed6992ced6d1?cid=f4f8554077e84dc8a5fd740ea419bff8",
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:4SqPZorSDuUtvdJwVGeZRC"
-    },
-    {
-      "album": {
-        "album_type": "single",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-            },
-            "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
-            "id": "4zCH9qm4R2DADamUHMCa6O",
-            "name": "Anirudh Ravichander",
-            "type": "artist",
-            "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-            },
-            "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
-            "id": "00sCATpEvwH48ays7PlQFU",
-            "name": "Jonita Gandhi",
-            "type": "artist",
-            "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt"
-        },
-        "href": "https://api.spotify.com/v1/albums/3OUj9ygj2KRcnKY1a1daGt",
-        "id": "3OUj9ygj2KRcnKY1a1daGt",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b6b3b7f26f0bc0e0197163a0",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b6b3b7f26f0bc0e0197163a0",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b6b3b7f26f0bc0e0197163a0",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "Arabic Kuthu - Halamithi Habibo (From \"Beast\")",
-        "release_date": "2022-02-14",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:3OUj9ygj2KRcnKY1a1daGt"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-          },
-          "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
-          "id": "4zCH9qm4R2DADamUHMCa6O",
-          "name": "Anirudh Ravichander",
-          "type": "artist",
-          "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-          },
-          "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
-          "id": "00sCATpEvwH48ays7PlQFU",
-          "name": "Jonita Gandhi",
-          "type": "artist",
-          "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 279677,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "QM4TW2268780"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv"
-      },
-      "href": "https://api.spotify.com/v1/tracks/6yvxu91deFKt3X1QoV6qMv",
-      "id": "6yvxu91deFKt3X1QoV6qMv",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Arabic Kuthu - Halamithi Habibo (From \"Beast\")",
-      "popularity": 73,
-      "preview_url": "https://p.scdn.co/mp3-preview/fa5ac33ff747d7b71a99d6ad9ca4a3aaa1cc5f1b?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "preview_url": null,
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:6yvxu91deFKt3X1QoV6qMv"
-    },
-    {
-      "album": {
-        "album_type": "single",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-            },
-            "href": "https://api.spotify.com/v1/artists/2FgHPfRprDaylrSRVf1UlN",
-            "id": "2FgHPfRprDaylrSRVf1UlN",
-            "name": "Thaman S",
-            "type": "artist",
-            "uri": "spotify:artist:2FgHPfRprDaylrSRVf1UlN"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy"
-        },
-        "href": "https://api.spotify.com/v1/albums/0v5sodl4XQptOtB7iD9SNy",
-        "id": "0v5sodl4XQptOtB7iD9SNy",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f7f31e4a143a5b3a796cea86",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f7f31e4a143a5b3a796cea86",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f7f31e4a143a5b3a796cea86",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "Varisu",
-        "release_date": "2022-12-24",
-        "release_date_precision": "day",
-        "total_tracks": 5,
-        "type": "album",
-        "uri": "spotify:album:0v5sodl4XQptOtB7iD9SNy"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-          },
-          "href": "https://api.spotify.com/v1/artists/2FgHPfRprDaylrSRVf1UlN",
-          "id": "2FgHPfRprDaylrSRVf1UlN",
-          "name": "Thaman S",
-          "type": "artist",
-          "uri": "spotify:artist:2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-          },
-          "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
-          "id": "4zCH9qm4R2DADamUHMCa6O",
-          "name": "Anirudh Ravichander",
-          "type": "artist",
-          "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-          },
-          "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
-          "id": "00sCATpEvwH48ays7PlQFU",
-          "name": "Jonita Gandhi",
-          "type": "artist",
-          "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 224095,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "INS182203873"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL"
-      },
-      "href": "https://api.spotify.com/v1/tracks/7fRIo7WyDxXn3r233GCcdL",
-      "id": "7fRIo7WyDxXn3r233GCcdL",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Jimikki Ponnu",
-      "popularity": 73,
-      "preview_url": "https://p.scdn.co/mp3-preview/a28493ebcd026eedbe1edf3f0c5f63983a95106a?cid=f4f8554077e84dc8a5fd740ea419bff8",
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:7fRIo7WyDxXn3r233GCcdL"
-    },
-    {
-      "album": {
-        "album_type": "single",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-            },
-            "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
-            "id": "4zCH9qm4R2DADamUHMCa6O",
-            "name": "Anirudh Ravichander",
-            "type": "artist",
-            "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-            },
-            "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
-            "id": "00sCATpEvwH48ays7PlQFU",
-            "name": "Jonita Gandhi",
-            "type": "artist",
-            "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/1JOGTaUwTOfeW70ed3rRr2"
-        },
-        "href": "https://api.spotify.com/v1/albums/1JOGTaUwTOfeW70ed3rRr2",
-        "id": "1JOGTaUwTOfeW70ed3rRr2",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2730f96a99f9bc0e40a0ccf4340",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e020f96a99f9bc0e40a0ccf4340",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048510f96a99f9bc0e40a0ccf4340",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "Private Party (From \"Don\")",
-        "release_date": "2022-04-30",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:1JOGTaUwTOfeW70ed3rRr2"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-          },
-          "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
-          "id": "4zCH9qm4R2DADamUHMCa6O",
-          "name": "Anirudh Ravichander",
-          "type": "artist",
-          "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-          },
-          "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
-          "id": "00sCATpEvwH48ays7PlQFU",
-          "name": "Jonita Gandhi",
-          "type": "artist",
-          "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 216774,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "INS172201529"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV"
-      },
-      "href": "https://api.spotify.com/v1/tracks/6eYsOcDdB5b6rTO5ubMxeV",
-      "id": "6eYsOcDdB5b6rTO5ubMxeV",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Private Party (From \"Don\")",
-      "popularity": 67,
-      "preview_url": "https://p.scdn.co/mp3-preview/dbbd7ee3e3f5742ade263dbd42746656a8943847?cid=f4f8554077e84dc8a5fd740ea419bff8",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:6eYsOcDdB5b6rTO5ubMxeV"
+      "uri": "spotify:track:3YH8zD0ycqxKtk6xTyW4w3"
     },
     {
       "album": {
@@ -541,116 +327,76 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+              "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
             },
-            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-            "id": "1wRPtKGflJrBx9BmLsSwlU",
-            "name": "Pritam",
+            "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+            "id": "50iBEPSw6kQ8GQkumXz7XZ",
+            "name": "Hesham Abdul Wahab",
             "type": "artist",
-            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+            "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
+          "spotify": "https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD"
         },
-        "href": "https://api.spotify.com/v1/albums/5xjaz957o6YGSXmlfd2tex",
-        "id": "5xjaz957o6YGSXmlfd2tex",
+        "href": "https://api.spotify.com/v1/albums/1dpKR9xGrVPqN4l78ymrKD",
+        "id": "1dpKR9xGrVPqN4l78ymrKD",
         "images": [
           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab23f0fba2fe563bc5544126",
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273bca30634e6cad10b97c03d21",
             "width": 640
           },
           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab23f0fba2fe563bc5544126",
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02bca30634e6cad10b97c03d21",
             "width": 300
           },
           {
+            "url": "https://i.scdn.co/image/ab67616d00004851ab23f0fba2fe563bc5544126",
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851bca30634e6cad10b97c03d21",
             "width": 64
           }
         ],
         "is_playable": true,
-        "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "release_date": "2016-10-26",
+        "name": "Hi Nanna",
+        "release_date": "2023-12-13",
         "release_date_precision": "day",
-        "total_tracks": 9,
+        "total_tracks": 10,
         "type": "album",
-        "uri": "spotify:album:5xjaz957o6YGSXmlfd2tex"
+        "uri": "spotify:album:1dpKR9xGrVPqN4l78ymrKD"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+            "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
           },
-          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-          "id": "1wRPtKGflJrBx9BmLsSwlU",
-          "name": "Pritam",
+          "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+          "id": "50iBEPSw6kQ8GQkumXz7XZ",
+          "name": "Hesham Abdul Wahab",
           "type": "artist",
-          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-          },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
-          "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-          },
-          "href": "https://api.spotify.com/v1/artists/0y59o4v8uw5crbN9M3JiL1",
-          "id": "0y59o4v8uw5crbN9M3JiL1",
-          "name": "Badshah",
-          "type": "artist",
-          "uri": "spotify:artist:0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-          },
-          "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
-          "id": "00sCATpEvwH48ays7PlQFU",
-          "name": "Jonita Gandhi",
-          "type": "artist",
-          "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-          },
-          "href": "https://api.spotify.com/v1/artists/4kq8z3vydHjPDggxb16ErB",
-          "id": "4kq8z3vydHjPDggxb16ErB",
-          "name": "Nakash Aziz",
-          "type": "artist",
-          "uri": "spotify:artist:4kq8z3vydHjPDggxb16ErB"
+          "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 252631,
+      "duration_ms": 266200,
       "explicit": false,
       "external_ids": {
-        "isrc": "INS171602477"
+        "isrc": "INS182302844"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/5FihcmME7NlwW8KbYOaHVH"
+        "spotify": "https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8"
       },
-      "href": "https://api.spotify.com/v1/tracks/5FihcmME7NlwW8KbYOaHVH",
-      "id": "5FihcmME7NlwW8KbYOaHVH",
+      "href": "https://api.spotify.com/v1/tracks/7xmkMdxtGt9jEQVyQK8TP8",
+      "id": "7xmkMdxtGt9jEQVyQK8TP8",
       "is_local": false,
       "is_playable": true,
-      "name": "The Breakup Song (From \"Ae Dil Hai Mushkil\")",
-      "popularity": 65,
-      "preview_url": "https://p.scdn.co/mp3-preview/e817c65038cd3bf2c7afb03585f7ef8549811917?cid=f4f8554077e84dc8a5fd740ea419bff8",
-      "track_number": 4,
+      "name": "Gaaju Bomma",
+      "popularity": 57,
+      "preview_url": null,
+      "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:5FihcmME7NlwW8KbYOaHVH"
+      "uri": "spotify:track:7xmkMdxtGt9jEQVyQK8TP8"
     },
     {
       "album": {
@@ -658,86 +404,86 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+              "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
             },
-            "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
-            "id": "4zCH9qm4R2DADamUHMCa6O",
-            "name": "Anirudh Ravichander",
+            "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+            "id": "50iBEPSw6kQ8GQkumXz7XZ",
+            "name": "Hesham Abdul Wahab",
             "type": "artist",
-            "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
+            "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1gajAFPKcgGySskFCZ7qQD",
+            "id": "1gajAFPKcgGySskFCZ7qQD",
+            "name": "Shiva Nirvana",
+            "type": "artist",
+            "uri": "spotify:artist:1gajAFPKcgGySskFCZ7qQD"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8"
+          "spotify": "https://open.spotify.com/album/2rYw1yEuTj2qOHj3J8YTJN"
         },
-        "href": "https://api.spotify.com/v1/albums/0ajbKuAGjGt7VBJeKpYyu8",
-        "id": "0ajbKuAGjGt7VBJeKpYyu8",
+        "href": "https://api.spotify.com/v1/albums/2rYw1yEuTj2qOHj3J8YTJN",
+        "id": "2rYw1yEuTj2qOHj3J8YTJN",
         "images": [
           {
+            "url": "https://i.scdn.co/image/ab67616d0000b27354f142b48177e144dc6d525a",
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c956570aa19c0b82b719fee6",
             "width": 640
           },
           {
+            "url": "https://i.scdn.co/image/ab67616d00001e0254f142b48177e144dc6d525a",
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c956570aa19c0b82b719fee6",
             "width": 300
           },
           {
+            "url": "https://i.scdn.co/image/ab67616d0000485154f142b48177e144dc6d525a",
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c956570aa19c0b82b719fee6",
             "width": 64
           }
         ],
         "is_playable": true,
-        "name": "Chellamma (From \"Doctor\")",
-        "release_date": "2020-07-16",
+        "name": "Na Roja Nuvve (From \"Kushi\") (Telugu)",
+        "release_date": "2023-05-09",
         "release_date_precision": "day",
         "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:0ajbKuAGjGt7VBJeKpYyu8"
+        "uri": "spotify:album:2rYw1yEuTj2qOHj3J8YTJN"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+            "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
           },
-          "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
-          "id": "4zCH9qm4R2DADamUHMCa6O",
-          "name": "Anirudh Ravichander",
+          "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+          "id": "50iBEPSw6kQ8GQkumXz7XZ",
+          "name": "Hesham Abdul Wahab",
           "type": "artist",
-          "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-          },
-          "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
-          "id": "00sCATpEvwH48ays7PlQFU",
-          "name": "Jonita Gandhi",
-          "type": "artist",
-          "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
+          "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 236500,
+      "duration_ms": 242526,
       "explicit": false,
       "external_ids": {
-        "isrc": "INS172002392"
+        "isrc": "INH102306927"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5"
+        "spotify": "https://open.spotify.com/track/2mFkD2KjL1dUhkpNKteaKP"
       },
-      "href": "https://api.spotify.com/v1/tracks/0fGclndst25Qqy8j4u5De5",
-      "id": "0fGclndst25Qqy8j4u5De5",
+      "href": "https://api.spotify.com/v1/tracks/2mFkD2KjL1dUhkpNKteaKP",
+      "id": "2mFkD2KjL1dUhkpNKteaKP",
       "is_local": false,
       "is_playable": true,
-      "name": "Chellamma (From \"Doctor\")",
-      "popularity": 65,
-      "preview_url": "https://p.scdn.co/mp3-preview/d3b423e665f7b9b4a5bffd35897a52d254f19215?cid=f4f8554077e84dc8a5fd740ea419bff8",
+      "name": "Na Roja Nuvve",
+      "popularity": 59,
+      "preview_url": null,
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:0fGclndst25Qqy8j4u5De5"
+      "uri": "spotify:track:2mFkD2KjL1dUhkpNKteaKP"
     },
     {
       "album": {
@@ -745,300 +491,484 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+              "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
             },
-            "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
-            "id": "1mYsTxnqsietFxj1OgoGbG",
-            "name": "A.R. Rahman",
+            "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+            "id": "50iBEPSw6kQ8GQkumXz7XZ",
+            "name": "Hesham Abdul Wahab",
             "type": "artist",
-            "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+            "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/6XBC9UsX48MzHICIr9m0hj"
+          "spotify": "https://open.spotify.com/album/7q1tMo3gcpKtHK3a6V2kKM"
         },
-        "href": "https://api.spotify.com/v1/albums/6XBC9UsX48MzHICIr9m0hj",
-        "id": "6XBC9UsX48MzHICIr9m0hj",
+        "href": "https://api.spotify.com/v1/albums/7q1tMo3gcpKtHK3a6V2kKM",
+        "id": "7q1tMo3gcpKtHK3a6V2kKM",
         "images": [
           {
+            "url": "https://i.scdn.co/image/ab67616d0000b27337bdb4ab21bb5795c22453b8",
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732318539f1b037d942fafa581",
             "width": 640
           },
           {
+            "url": "https://i.scdn.co/image/ab67616d00001e0237bdb4ab21bb5795c22453b8",
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022318539f1b037d942fafa581",
             "width": 300
           },
           {
+            "url": "https://i.scdn.co/image/ab67616d0000485137bdb4ab21bb5795c22453b8",
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512318539f1b037d942fafa581",
             "width": 64
           }
         ],
         "is_playable": true,
-        "name": "O Kadhal Kanmani (Original Motion Picture Soundtrack)",
-        "release_date": "2015-04-07",
-        "release_date_precision": "day",
-        "total_tracks": 9,
-        "type": "album",
-        "uri": "spotify:album:6XBC9UsX48MzHICIr9m0hj"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-          },
-          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
-          "id": "1mYsTxnqsietFxj1OgoGbG",
-          "name": "A.R. Rahman",
-          "type": "artist",
-          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-          },
-          "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
-          "id": "00sCATpEvwH48ays7PlQFU",
-          "name": "Jonita Gandhi",
-          "type": "artist",
-          "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 205759,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "INS171500439"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/4mOmWSdTmf6fSAibGWCKp7"
-      },
-      "href": "https://api.spotify.com/v1/tracks/4mOmWSdTmf6fSAibGWCKp7",
-      "id": "4mOmWSdTmf6fSAibGWCKp7",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Mental Manadhil",
-      "popularity": 65,
-      "preview_url": "https://p.scdn.co/mp3-preview/ba84cebe70014b7427a570fd9e85739b0c54d180?cid=f4f8554077e84dc8a5fd740ea419bff8",
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:4mOmWSdTmf6fSAibGWCKp7"
-    },
-    {
-      "album": {
-        "album_type": "single",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-            },
-            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-            "id": "1wRPtKGflJrBx9BmLsSwlU",
-            "name": "Pritam",
-            "type": "artist",
-            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6DtMXD2zJumu3R2e54OVKT"
-        },
-        "href": "https://api.spotify.com/v1/albums/6DtMXD2zJumu3R2e54OVKT",
-        "id": "6DtMXD2zJumu3R2e54OVKT",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d40f14fbc589329567858fc0",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d40f14fbc589329567858fc0",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d40f14fbc589329567858fc0",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "Dishoom",
-        "release_date": "2016-07-15",
-        "release_date_precision": "day",
-        "total_tracks": 6,
-        "type": "album",
-        "uri": "spotify:album:6DtMXD2zJumu3R2e54OVKT"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-          },
-          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-          "id": "1wRPtKGflJrBx9BmLsSwlU",
-          "name": "Pritam",
-          "type": "artist",
-          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-          },
-          "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
-          "id": "00sCATpEvwH48ays7PlQFU",
-          "name": "Jonita Gandhi",
-          "type": "artist",
-          "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU"
-          },
-          "href": "https://api.spotify.com/v1/artists/2LgKrgRJcbJlt14i1LTzDU",
-          "id": "2LgKrgRJcbJlt14i1LTzDU",
-          "name": "Amit Mishra",
-          "type": "artist",
-          "uri": "spotify:artist:2LgKrgRJcbJlt14i1LTzDU"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 238994,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "INS181600966"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/54SQet8YMttOgTqDNGcGpe"
-      },
-      "href": "https://api.spotify.com/v1/tracks/54SQet8YMttOgTqDNGcGpe",
-      "id": "54SQet8YMttOgTqDNGcGpe",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Sau Tarah Ke",
-      "popularity": 65,
-      "preview_url": "https://p.scdn.co/mp3-preview/35b226ac55e8fc34eda4ae5823c97ae396ce2dbb?cid=f4f8554077e84dc8a5fd740ea419bff8",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:54SQet8YMttOgTqDNGcGpe"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-            },
-            "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
-            "id": "4zCH9qm4R2DADamUHMCa6O",
-            "name": "Anirudh Ravichander",
-            "type": "artist",
-            "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6"
-        },
-        "href": "https://api.spotify.com/v1/albums/3WLJmMZUeDOuERFAk1Mxs6",
-        "id": "3WLJmMZUeDOuERFAk1Mxs6",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273e452a6e11147f3e56aee6f5b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02e452a6e11147f3e56aee6f5b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851e452a6e11147f3e56aee6f5b",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "Jawan",
-        "release_date": "2023-09-05",
+        "name": "Hridayam (Side A) [Original Motion Picture Soundtrack]",
+        "release_date": "2022-01-14",
         "release_date_precision": "day",
         "total_tracks": 7,
         "type": "album",
-        "uri": "spotify:album:3WLJmMZUeDOuERFAk1Mxs6"
+        "uri": "spotify:album:7q1tMo3gcpKtHK3a6V2kKM"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+            "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
           },
-          "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
-          "id": "4zCH9qm4R2DADamUHMCa6O",
-          "name": "Anirudh Ravichander",
+          "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+          "id": "50iBEPSw6kQ8GQkumXz7XZ",
+          "name": "Hesham Abdul Wahab",
           "type": "artist",
-          "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
+          "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            "spotify": "https://open.spotify.com/artist/5nfZOPYU4aFJii2PCGALu2"
           },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
+          "href": "https://api.spotify.com/v1/artists/5nfZOPYU4aFJii2PCGALu2",
+          "id": "5nfZOPYU4aFJii2PCGALu2",
+          "name": "Darshana Rajendran",
           "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-          },
-          "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
-          "id": "00sCATpEvwH48ays7PlQFU",
-          "name": "Jonita Gandhi",
-          "type": "artist",
-          "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-          },
-          "href": "https://api.spotify.com/v1/artists/0y59o4v8uw5crbN9M3JiL1",
-          "id": "0y59o4v8uw5crbN9M3JiL1",
-          "name": "Badshah",
-          "type": "artist",
-          "uri": "spotify:artist:0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-          },
-          "href": "https://api.spotify.com/v1/artists/0m3D4grap8VFSzbJMqgNVk",
-          "id": "0m3D4grap8VFSzbJMqgNVk",
-          "name": "Kumaar",
-          "type": "artist",
-          "uri": "spotify:artist:0m3D4grap8VFSzbJMqgNVk"
+          "uri": "spotify:artist:5nfZOPYU4aFJii2PCGALu2"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 195381,
+      "duration_ms": 225116,
       "explicit": false,
       "external_ids": {
-        "isrc": "INS182302534"
+        "isrc": "INT202102847"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3qxLYSU1s5pqk8rz6dJNVi"
+        "spotify": "https://open.spotify.com/track/4vWcMkEsnEeolYB5kUmr9Q"
       },
-      "href": "https://api.spotify.com/v1/tracks/3qxLYSU1s5pqk8rz6dJNVi",
-      "id": "3qxLYSU1s5pqk8rz6dJNVi",
+      "href": "https://api.spotify.com/v1/tracks/4vWcMkEsnEeolYB5kUmr9Q",
+      "id": "4vWcMkEsnEeolYB5kUmr9Q",
       "is_local": false,
       "is_playable": true,
-      "name": "Faraatta",
-      "popularity": 60,
-      "preview_url": "https://p.scdn.co/mp3-preview/f743a7ccbbc18f2de47f09a15e3ad9e0625cf71d?cid=f4f8554077e84dc8a5fd740ea419bff8",
-      "track_number": 6,
+      "name": "Darshana",
+      "popularity": 55,
+      "preview_url": null,
+      "track_number": 2,
       "type": "track",
-      "uri": "spotify:track:3qxLYSU1s5pqk8rz6dJNVi"
+      "uri": "spotify:track:4vWcMkEsnEeolYB5kUmr9Q"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+            "id": "50iBEPSw6kQ8GQkumXz7XZ",
+            "name": "Hesham Abdul Wahab",
+            "type": "artist",
+            "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5UJ2sHO2ELrgW6aXeRLTQQ",
+            "id": "5UJ2sHO2ELrgW6aXeRLTQQ",
+            "name": "Chinmayi",
+            "type": "artist",
+            "uri": "spotify:artist:5UJ2sHO2ELrgW6aXeRLTQQ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0kE8dio9BXYdLd8KGbJ6Zo"
+        },
+        "href": "https://api.spotify.com/v1/albums/0kE8dio9BXYdLd8KGbJ6Zo",
+        "id": "0kE8dio9BXYdLd8KGbJ6Zo",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27390081b3870910e47194b4226",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0290081b3870910e47194b4226",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485190081b3870910e47194b4226",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Aradhya (From \"Kushi\") (Telugu)",
+        "release_date": "2023-07-12",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0kE8dio9BXYdLd8KGbJ6Zo"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+          "id": "50iBEPSw6kQ8GQkumXz7XZ",
+          "name": "Hesham Abdul Wahab",
+          "type": "artist",
+          "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5UJ2sHO2ELrgW6aXeRLTQQ",
+          "id": "5UJ2sHO2ELrgW6aXeRLTQQ",
+          "name": "Chinmayi",
+          "type": "artist",
+          "uri": "spotify:artist:5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 282222,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INH102309906"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4KwsXvFDCoW7l1cfxhjTdD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4KwsXvFDCoW7l1cfxhjTdD",
+      "id": "4KwsXvFDCoW7l1cfxhjTdD",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Aradhya (From \"Kushi\") (Telugu)",
+      "popularity": 58,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4KwsXvFDCoW7l1cfxhjTdD"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+            },
+            "href": "https://api.spotify.com/v1/artists/7zAp0JbkavFg2rcMGvANtP",
+            "id": "7zAp0JbkavFg2rcMGvANtP",
+            "name": "Shakthisree Gopalan",
+            "type": "artist",
+            "uri": "spotify:artist:7zAp0JbkavFg2rcMGvANtP"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tejKImNVmDcORNBuZ1l14",
+            "id": "4tejKImNVmDcORNBuZ1l14",
+            "name": "Kala Bhairava",
+            "type": "artist",
+            "uri": "spotify:artist:4tejKImNVmDcORNBuZ1l14"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+            "id": "50iBEPSw6kQ8GQkumXz7XZ",
+            "name": "Hesham Abdul Wahab",
+            "type": "artist",
+            "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1Zl3ctPfHf8wsbRM3pzXjA"
+        },
+        "href": "https://api.spotify.com/v1/albums/1Zl3ctPfHf8wsbRM3pzXjA",
+        "id": "1Zl3ctPfHf8wsbRM3pzXjA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739e86be8b10f21e7641f284f7",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029e86be8b10f21e7641f284f7",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519e86be8b10f21e7641f284f7",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Maiyal (From \"Hi Nanna\")",
+        "release_date": "2023-11-04",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1Zl3ctPfHf8wsbRM3pzXjA"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+          },
+          "href": "https://api.spotify.com/v1/artists/7zAp0JbkavFg2rcMGvANtP",
+          "id": "7zAp0JbkavFg2rcMGvANtP",
+          "name": "Shakthisree Gopalan",
+          "type": "artist",
+          "uri": "spotify:artist:7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tejKImNVmDcORNBuZ1l14",
+          "id": "4tejKImNVmDcORNBuZ1l14",
+          "name": "Kala Bhairava",
+          "type": "artist",
+          "uri": "spotify:artist:4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+          "id": "50iBEPSw6kQ8GQkumXz7XZ",
+          "name": "Hesham Abdul Wahab",
+          "type": "artist",
+          "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 219039,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS182303117"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3IjMyPqLXc5YnkjS8kTcwO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3IjMyPqLXc5YnkjS8kTcwO",
+      "id": "3IjMyPqLXc5YnkjS8kTcwO",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Maiyal (From \"Hi Nanna\")",
+      "popularity": 47,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3IjMyPqLXc5YnkjS8kTcwO"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+            "id": "50iBEPSw6kQ8GQkumXz7XZ",
+            "name": "Hesham Abdul Wahab",
+            "type": "artist",
+            "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6nuAnvIVNkw6pwqzuF2GJG"
+        },
+        "href": "https://api.spotify.com/v1/albums/6nuAnvIVNkw6pwqzuF2GJG",
+        "id": "6nuAnvIVNkw6pwqzuF2GJG",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b8c8ab6e0a59493a5fa06c6",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b8c8ab6e0a59493a5fa06c6",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b8c8ab6e0a59493a5fa06c6",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Hridayam (Side B) [Original Motion Picture Soundtrack]",
+        "release_date": "2022-01-17",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:6nuAnvIVNkw6pwqzuF2GJG"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+          "id": "50iBEPSw6kQ8GQkumXz7XZ",
+          "name": "Hesham Abdul Wahab",
+          "type": "artist",
+          "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3HVwgnV1o8772u3BtdhcHF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3HVwgnV1o8772u3BtdhcHF",
+          "id": "3HVwgnV1o8772u3BtdhcHF",
+          "name": "Arvind Venugopal",
+          "type": "artist",
+          "uri": "spotify:artist:3HVwgnV1o8772u3BtdhcHF"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 159605,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INT202202921"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7dcXGzIAaoe19A6kgnrCaQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7dcXGzIAaoe19A6kgnrCaQ",
+      "id": "7dcXGzIAaoe19A6kgnrCaQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Nagumo",
+      "popularity": 56,
+      "preview_url": null,
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7dcXGzIAaoe19A6kgnrCaQ"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+            "id": "50iBEPSw6kQ8GQkumXz7XZ",
+            "name": "Hesham Abdul Wahab",
+            "type": "artist",
+            "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6nuAnvIVNkw6pwqzuF2GJG"
+        },
+        "href": "https://api.spotify.com/v1/albums/6nuAnvIVNkw6pwqzuF2GJG",
+        "id": "6nuAnvIVNkw6pwqzuF2GJG",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b8c8ab6e0a59493a5fa06c6",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b8c8ab6e0a59493a5fa06c6",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b8c8ab6e0a59493a5fa06c6",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Hridayam (Side B) [Original Motion Picture Soundtrack]",
+        "release_date": "2022-01-17",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:6nuAnvIVNkw6pwqzuF2GJG"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+          "id": "50iBEPSw6kQ8GQkumXz7XZ",
+          "name": "Hesham Abdul Wahab",
+          "type": "artist",
+          "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/079wIH2YkZpPmlvg4C9Pjr"
+          },
+          "href": "https://api.spotify.com/v1/artists/079wIH2YkZpPmlvg4C9Pjr",
+          "id": "079wIH2YkZpPmlvg4C9Pjr",
+          "name": "Sachin Balu",
+          "type": "artist",
+          "uri": "spotify:artist:079wIH2YkZpPmlvg4C9Pjr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2wp6gpkDBMH3f0n0PvZ1sT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2wp6gpkDBMH3f0n0PvZ1sT",
+          "id": "2wp6gpkDBMH3f0n0PvZ1sT",
+          "name": "Megha Josekutty",
+          "type": "artist",
+          "uri": "spotify:artist:2wp6gpkDBMH3f0n0PvZ1sT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 201750,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INT202202920"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4gYKdgwtMwUtKrmF0Qt2E7"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4gYKdgwtMwUtKrmF0Qt2E7",
+      "id": "4gYKdgwtMwUtKrmF0Qt2E7",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Pottu Thotta Pournami",
+      "popularity": 55,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4gYKdgwtMwUtKrmF0Qt2E7"
     }
   ]
 }
