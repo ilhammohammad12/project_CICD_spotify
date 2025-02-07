@@ -5,6 +5,7 @@ pipeline {
         REMOTE_SERVER = 'root@192.168.1.200'
         DOCKER_IMAGE = "oilham/jenkins_spotify:latest"
         DOCKER_CREDENTIALS_ID = "DOCKER_CREDENTIALS_ID"  // Add your Jenkins credentials ID here
+        ANSIBLE_PLAYBOOK= '/tmp/app/dock_m.yaml'
     }
     stages {
         stage('Checkout SCM') {
@@ -42,6 +43,21 @@ pipeline {
                                 echo $DOCKER_PASS | docker login -u $DOCKER_USER --password-stdin &&
                                 docker push $DOCKER_IMAGE
                             '
+                        """
+                    }
+                }
+            }
+        }
+        stage('Run Ansible Playbook') {
+            steps {
+                script {
+                    // Use the SSH agent to pass the credentials for the SSH connection
+                    sshagent([SSH_CREDENTIALS_ID]) {
+                        // Run Ansible command remotely on the target server
+                        sh """
+                            ssh -o StrictHostKeyChecking=no ${REMOTE_SERVER} '
+							cd /tmp/app/ &&
+							ansible-playbook ${ANSIBLE_PLAYBOOK}'
                         """
                     }
                 }

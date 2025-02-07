@@ -1,0 +1,12 @@
+---
+-
+
+  # Hosts: where our play will run and options it will run with
+  hosts: all
+
+  # Roles: list of roles to be imported into the play
+  roles:
+    - dock
+
+
+...

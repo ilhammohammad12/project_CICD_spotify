@@ -1,0 +1,77 @@
+---
+# tasks file for dock
+- name: installing epel-release
+  yum:
+    name: epel-release
+    update_cache: yes
+    state: latest
+
+- name: check if nginx is installed
+  command: nginx -v 
+  register: nginx_status
+    
+- name: install nginx 
+  package:
+    name: nginx
+    state: latest
+  when: nginx_status.rc != 0
+  
+- name: check if nginx is running or not
+  command: systemctl status nginx 
+  register: nginx_start 
+  
+- name: start nginx if already not started 
+  service:
+    name: nginx
+    state: started
+  when: "'Active: active (running)' not in nginx_start.stdout" 
+
+- name: check if respective container is running
+  docker_container_info:
+    name: spotify_jenkins
+  register: container_status
+  
+- name: kill the container
+  docker_container:
+    name: spotify_jenkins
+    state: absent
+    force_kill: yes
+  register: kill_container_status
+  
+- name: check if docker images is present
+  docker_image_info:
+    name: oilham/jenkins_spotify:latest
+  register: docker_image_status
+ 
+- name: remove the docker_image 
+  docker_image:
+    name: oilham/jenkins_spotify
+    state: absent
+    force_absent: yes
+  when: docker_image_status is defined
+  register: docker_image_remove 
+
+- name: pull the docker image
+  docker_image:
+    name: oilham/jenkins_spotify
+    source: pull
+    tag: latest
+  register: docker_pull_status
+
+#- name: status of docker image
+#  debug:
+#    var: docker_pull_status
+
+- name: start the container
+  docker_container:
+    name: spotify_jenkins
+    image: oilham/jenkins_spotify
+    ports:
+      - "8000:8000"
+  when: docker_pull_status.image is defined 
+  register: container_status
+
+- name: final_container_check
+  debug:
+    var: container_status 
+...

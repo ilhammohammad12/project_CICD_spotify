@@ -1,0 +1,12 @@
+---
+# handlers file for dock
+- name: check_http_service
+  uri:
+    url: http://192.168.1.201:9000
+    status_code: 200
+
+- name: check_http_service
+  uri:
+    url: http://192.168.1.202:9000
+    status_code: 200
+

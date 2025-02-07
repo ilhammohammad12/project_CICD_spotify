@@ -1,0 +1,24 @@
+- name: start docker_containers
+  include_tasks: docker_container.yml
+#  set_fact:
+#    status_container: container_status.changed
+
+
+- name: copy reverse_proxy
+  copy: 
+    src: /tmp/app/nginx.conf
+    dest: /etc/nginx/
+    owner: root
+    group: root
+    mode: "0644"
+
+
+- name: load the nginx file
+  command: nginx -t
+
+- name: restart the nginx
+  service:
+    name: nginx
+    state: restarted
+  notify: check_http_service
+

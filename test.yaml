@@ -1,0 +1,51 @@
+---
+-
+  hosts: all
+
+  tasks:
+    - name: check
+      command: systemctl status nginx 
+      register: nginx_status
+      
+#    - name: debug
+#      debug:
+#        var: nginx_status
+
+    - name: container status
+      docker_container_info:
+        name: zealous_stonebraker
+      register: container_status
+
+    - name: kill the container
+      docker_container:
+        name: determined_wescoff
+        state: absent
+      register: kill_container_status
+
+    - name: check docker images
+      docker_image_info:
+        name: oilham/jenkins_spotify
+      register: docker_status
+
+    - name: remove the docker_image 
+      docker_image:
+        name: oilham/jenkins_spotify
+        state: absent
+      when: docker_status is defined
+      register: docker_status_image
+ 
+    - name: debug docker status
+      debug:
+        var: docker_status_image
+
+    - name: container status 
+      docker_container_info:
+        name: zealous_stonebraker
+      register: container_status
+
+    - name: checking_container_status
+      debug:
+        var: container_status
+
+...
+
